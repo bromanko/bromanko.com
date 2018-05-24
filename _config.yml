@@ -2,45 +2,44 @@
 baseurl: ""
 url: "https://bromanko.com"
 title: bromanko
-description: "It's Brian Romanko"
+description: "Brian Romanko"
 
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Type on Strap # blog's title
+  title: Brian Romanko # blog's title
   avatar: assets/img/triangle.svg
   favicon: assets/favicon.ico
-  gravatar: # Email MD5 hash
+  gravatar: "ab28e7878d0f75474bb780a753679142" # Email MD5 hash
 
   # Header and footer text
   header_text: > #two or three lines to describe your site
-     <p>Change header text in <code>_config.yml</code> <br> to update this feature.</p>
+     Thoughts on software, technology, and design
   header_text_feature_image: assets/img/pexels/triangular.jpeg
-  footer_text: >
-   Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
+  footer_text:
 
   # Icons
   rss: true  # Make sure you created a feed.xml with feed.xml layout
-  email_address: # Full email address, e.g. "sam@example.com"
+  email_address: hello@bromanko.com # Full email address, e.g. "sam@example.com"
   behance:
   bitbucket:
   dribbble:
   facebook:
   flickr:
-  gitlab:
-  github: "sylhare"
+  gitlab: "bromanko"
+  github: "bromanko"
   google_plus:
-  instagram:
+  instagram: "bromanko"
   keybase:
-  linkedin:  # Full URL
+  linkedin: "https://linkedin.com/in/bromanko"
   pinterest:
   reddit:
   soundcloud:
-  stack_exchange:  # Full URL
+  stack_exchange:  "https://stackoverflow.com/users/134388/bromanko"
   steam:
   tumblr:
-  twitter: # "twitter username"
+  twitter: "@bromanko"
   vimeo:
   wordpress:
   youtube:
@@ -49,7 +48,7 @@ theme_settings:
   share_buttons:
     facebook: true
     twitter: true
-    google_plus: true
+    google_plus:
     tumblr:
     pinterest:
     pocket:
