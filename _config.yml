@@ -9,7 +9,7 @@ description: "Brian Romanko"
 theme_settings:
   # Meta
   title: Brian Romanko # blog's title
-  avatar: assets/img/triangle.svg
+  avatar: assets/img/bromanko.svg
   favicon: assets/favicon.ico
   gravatar: "ab28e7878d0f75474bb780a753679142" # Email MD5 hash
 
