@@ -2,8 +2,7 @@
 layout: bootstrap 
 title : Projects 
 permalink: /projects/
-subtitle: "Projects Iʼve Worked On" 
-feature-img: "assets/img/feature/projects.jpg"
+feature-gradient: vanusa
 ---
 
 {% include portfolio.html %}

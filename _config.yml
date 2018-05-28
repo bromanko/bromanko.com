@@ -16,8 +16,9 @@ theme_settings:
   # Header and footer text
   header_text: > #two or three lines to describe your site
      bromanko on software, technology, and design
-  header_text_feature_image: assets/img/feature/home.jpeg
-  footer_text:
+  header_text_feature_image:
+  footer_text: >
+    Copyright © 2015–2018 Brian Romanko
 
   # Icons
   rss: true  # Make sure you created a feed.xml with feed.xml layout
@@ -65,10 +66,10 @@ theme_settings:
   special_page:
     search: 
       icon: "search" # Assuming page link and icon are the same
-      enabled: true
+      enabled: false
     tags:
       icon: "tags"
-      enabled: true
+      enabled: false
   
   # Localization strings
   str_follow_on: "Follow on"

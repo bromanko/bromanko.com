@@ -1,11 +1,11 @@
 ---
-layout: post
+layout: project
 title: dot-slash-go
-feature-img: "assets/img/portfolio/dot-slash-go.png"
-img: "assets/img/portfolio/dot-slash-go.png"
+feature-gradient: lawrencium
 date: 25 October 2017
+github-user: bromanko
+github-repo: "dot-slash-go"
 ---
 
-## dot-slash-go
+{% remote_markdown https://raw.githubusercontent.com/bromanko/dot-slash-go/master/README.md %}
 
-An extensible, friendly framework for project go scripts. It enables you to create a better developer experience with less effort.
