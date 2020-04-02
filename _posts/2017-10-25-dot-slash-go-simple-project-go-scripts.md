@@ -1,8 +1,7 @@
 ---
-layout: post
 title: "dot-slash-go: Simple Project ./go Scripts"
 excerpt: I make it a point to include ./go scripts in every project I work on. A ./go script will significantly increase new developer productivity. Any open source project looking to lower their barrier of entry should adopt one.
-feature-gradient: vanusa
+date: '2017-10-25'
 ---
 
 I 💛 ./go scripts.
@@ -35,7 +34,7 @@ A guided process will ask you a series of questions to create a `./go` shell scr
 Re-running the install script is safe. It will update `./go` to the latest version and will not delete any of your customizations.
 
 
-### Creating Commands 
+### Creating Commands
 
 Creating new commands is also simple. Just use the included command command.
 

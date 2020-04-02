@@ -1,8 +1,7 @@
 ---
-layout: post
 title: Rediscovering .NET
 excerpt: With the recent release of Visual Studio for Mac and Jetbrains Rider I’ve gotten the itch to explore the current state of the .NET ecosystem. Microsoft has made some bold strides in cross-platform compatibility and I was curious about the development experience.
-feature-gradient: vanusa
+date: '2016-01-09'
 ---
 
 With the recent release of Visual Studio for Mac and Jetbrains Rider I’ve gotten the itch to explore the current state of the .NET ecosystem. Microsoft has made some bold strides in cross-platform compatibility and I was curious about the development experience.
@@ -29,46 +28,46 @@ Until Rider adds [support for csproj files](https://youtrack.jetbrains.com/issue
 
 ### Unit Testing
 
-XUnit appears to be the preferred unit testing framework. That’s great since it’s what I was last using. 
-The `dotnet test` command works well enough. You can use glob patterns to run tests across multiple projects 
+XUnit appears to be the preferred unit testing framework. That’s great since it’s what I was last using.
+The `dotnet test` command works well enough. You can use glob patterns to run tests across multiple projects
 or assemblies: `dotnet test test/**`
 
-Rider’s test runner also works well. It’s capable of both executing and debugging single tests or full suites. 
+Rider’s test runner also works well. It’s capable of both executing and debugging single tests or full suites.
 I can’t find a way to do file system watching and have it re-execute tests on save. Which brings me to the next point…
 
 ### File System Watching
 
-The .NET Tools include a `watch` command to listen for file system changes and re-run your tests or re-build your app. 
-Unfortunately, the command is limited to a single project at a time. If you break your solution up into multiple 
+The .NET Tools include a `watch` command to listen for file system changes and re-run your tests or re-build your app.
+Unfortunately, the command is limited to a single project at a time. If you break your solution up into multiple
 projects you can’t issue a single command to watch for changes in all of the tests or source files.
 
-I asked about this in the [.NET Tools repo](https://github.com/aspnet/DotNetTools/issues/247). The recommendation was 
-to use MSBuild rather than `dotnet test`. That’s good advice considering the switch back to MSBuild. However, 
+I asked about this in the [.NET Tools repo](https://github.com/aspnet/DotNetTools/issues/247). The recommendation was
+to use MSBuild rather than `dotnet test`. That’s good advice considering the switch back to MSBuild. However,
 ider’s lack of support means that I can’t yet take advantage.
 
 ### Package Management
 
 NuGet was in its infancy when I left the .NET world. My how things have changed. It now has a robust ecosystem of packages. It’s especially great to see Microsoft publishing their assemblies via NuGet.
 
-I was thrown off by the package installation process. My expectation was that packages would default to a project-local 
-install rather than globally in `$HOME`. I attempted to force packages to install locally but the best I could do 
-was one local packages folder per project. This duplicates a lot of packages and is hard to manage with Docker volumes. 
-There are several open issues related to this. I scrapped this approach and am installing globally. I can’t help but 
+I was thrown off by the package installation process. My expectation was that packages would default to a project-local
+install rather than globally in `$HOME`. I attempted to force packages to install locally but the best I could do
+was one local packages folder per project. This duplicates a lot of packages and is hard to manage with Docker volumes.
+There are several open issues related to this. I scrapped this approach and am installing globally. I can’t help but
 wonder if this will cause pain in the future.
 
-I was also thrown off by `dotnet restore` vs using NuGet manually. I probably shouldn’t have installed the NuGet 
+I was also thrown off by `dotnet restore` vs using NuGet manually. I probably shouldn’t have installed the NuGet
 binary on my machine. I’ve removed it and only use the `dotnet` CLI.
 
-I’m surprised that there is no command line to add the latest version of a package to your project. 
-Something equivalent to `npm install --save` or `yarn add`. My process involves finding the package on 
+I’m surprised that there is no command line to add the latest version of a package to your project.
+Something equivalent to `npm install --save` or `yarn add`. My process involves finding the package on
 nuget.org and then hand-editing `project.json`. Awkward.
 
 ### Linting
 
 It looks like the current state of things is to use [StyleCop Analyzers](https://github.com/DotNetAnalyzers/StyleCopAnalyzers/blob/master/documentation/DotNetCli.md).
-However the wiki page doesn’t leave me particularly excited. 
-Coala has [CSharpLintBear](https://github.com/coala/coala-bears/blob/master/bears/c_languages/CSharpLintBear.py) 
-which uses mcs. I could try out Coala (but Python 3…) or running mcs myself. 
+However the wiki page doesn’t leave me particularly excited.
+Coala has [CSharpLintBear](https://github.com/coala/coala-bears/blob/master/bears/c_languages/CSharpLintBear.py)
+which uses mcs. I could try out Coala (but Python 3…) or running mcs myself.
 More work than I’m willing to invest right now.
 
 ### Docker
@@ -125,8 +124,8 @@ exec "$@"
 
 ### Frameworks
 
-I was interested in both [Akka.Net](https://github.com/akkadotnet/akka.net) and [Orleans](https://github.com/dotnet/orleans). 
-Neither of them support .NET Core yet. 😔 Akka.Net has a branch for .NET Core, though. That’s a promising sign. 
+I was interested in both [Akka.Net](https://github.com/akkadotnet/akka.net) and [Orleans](https://github.com/dotnet/orleans).
+Neither of them support .NET Core yet. 😔 Akka.Net has a branch for .NET Core, though. That’s a promising sign.
 Both projects also have Github issues listing the TODO items necessary for support. I’ve signed up for notifications on each of them.
 
 ### Current Conclusion

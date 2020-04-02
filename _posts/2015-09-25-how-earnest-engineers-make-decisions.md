@@ -1,8 +1,7 @@
 ---
-layout: post
 title: How Earnest Engineers Make Decisions
 excerpt: I just rewrote our interest rate calculator. It distributes calculations across a cluster of servers. The codebase is 10 times larger but it’s sooo fast! Could I get a code review?
-feature-gradient: vanusa
+date: '2015-09-25'
 ---
 
 *I just rewrote our interest rate calculator. It distributes calculations across a cluster of servers. The codebase is 10 times larger but it’s sooo fast! Could I get a code review? — Scotty*
@@ -48,7 +47,7 @@ By selecting and communicating which specific principles are most important we e
 
 That means when Connie, for example, is discussing next week’s work with her team they will decide what projects to tackle based on this framework. Should they invest in a better image compression system to make our pages load faster? Or, should they simplify the page build process to have less moving parts? Our investment preference for maintainability over performance makes the path clearer.
 
-Prioritizing our architectural concerns has been a positive enabler for our team. The framework is embedded within our software design process allowing us to scale consistent decision making while tripling the size of the team. Unfortunately, there is one decision PASSMADE can’t help make for you. 
+Prioritizing our architectural concerns has been a positive enabler for our team. The framework is embedded within our software design process allowing us to scale consistent decision making while tripling the size of the team. Unfortunately, there is one decision PASSMADE can’t help make for you.
 You’re on your own with [naming things](http://martinfowler.com/bliki/TwoHardThings.html).
 
 If you also like secure, maintainable and available software — or distributed interest rate calculators — [give us a look](https://www.meetearnest.com/careers/#/overview), we’re hiring.
