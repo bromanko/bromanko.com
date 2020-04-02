@@ -1,14 +1,7 @@
 ---
-layout: post
 title: "Elegant Node.js Web Services: Pipelines"
-excerpt: This article describes the basics of an organized web service pipeline in Node.js. I’ve also published a companion Github repository that lays out the patterns in practice.
-feature-gradient: vanusa
----
-
-As [Joel Spolsky said](http://www.joelonsoftware.com/articles/fog0000000069.html), it’s harder to read code than it is to write it. Functional languages like JavaScript are particularly prone to this. I’ve spent the past year building and maintaining several large Node.js web service codebases. One technique that has proven itself is conceptualizing service calls as function pipelines and organizing the logic accordingly. This has helped keep complexity down, increased readability and avoids the “pyramid of doom.”
-
-This article describes the basics of an organized web service pipeline in Node.js. I’ve also published a [companion Github repository](https://github.com/bromanko/restify-example) that lays out the patterns in practice.
-
+excerpt: 'This article describes the basics of an organized web service pipeline in Node.js. I’ve also published a companion Github repository that lays out the patterns in practice.'
+date: '2013-08-08'
 ---
 
 ### Node.js Web Service Functionality
@@ -133,8 +126,8 @@ if (CONFIG.server.auditLog) {
 }
 ```
 
-Developer safeguard middleware is a great way to protect yourself and other developers from easily caught mistakes. For instance, on one project we had a problem 
-with slow execution time — particularly slow database queries. I added a post-route middleware to detect execution times above a certain threshold and then return 
+Developer safeguard middleware is a great way to protect yourself and other developers from easily caught mistakes. For instance, on one project we had a problem
+with slow execution time — particularly slow database queries. I added a post-route middleware to detect execution times above a certain threshold and then return
 a server error if the threshold was exceeded (*in NODE_ENV=development only — just in case*). This forced developers to keep performance in mind while developing.
 
 ### Closing Thoughts
