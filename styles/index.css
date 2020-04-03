@@ -1,5 +1,20 @@
 /* purgecss start ignore */
 @tailwind base;
+
+@font-face {
+    font-family: "Fantasque Sans Mono";
+    font-weight: normal;
+    font-style: normal;
+    src: url(/fonts/FantasqueSansMonoRegular.ttf) format("truetype");
+}
+
+html {
+    box-sizing: border-box;
+}
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+
 @tailwind components;
 /* purgecss end ignore */
 @tailwind utilities;
