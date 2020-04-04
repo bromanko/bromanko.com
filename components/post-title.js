@@ -1,7 +1,14 @@
-export default function PostTitle({ children }) {
+import React from "react";
+import Link from "next/link";
+
+export default function PostTitle({ slug, title }) {
   return (
-    <h1 className="text-6xl md:text-7xl lg:text-8xl font-bold tracking-tighter leading-tight md:leading-none mb-12 text-center md:text-left">
-      {children}
-    </h1>
+      <Link as={`/posts/${slug}`} href="/posts/[slug]">
+        <a>
+            <h1 className="text-2xl font-black">
+                {title}
+            </h1>
+        </a>
+      </Link>
   )
 }

@@ -1,15 +1,12 @@
 import Date from '../components/date'
 import PostTitle from '../components/post-title'
+import React from "react";
 
-export default function PostHeader({ title, date }) {
+export default function PostHeader({ title, date, slug }) {
   return (
     <>
-      <PostTitle>{title}</PostTitle>
-      <div className="max-w-2xl mx-auto">
-        <div className="mb-6 text-lg">
-          <Date dateString={date} />
-        </div>
-      </div>
+      <PostTitle slug={slug} title={title}/>
+      <Date dateString={date} />
     </>
   )
 }

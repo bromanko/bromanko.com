@@ -5,11 +5,20 @@ module.exports = {
     },
     extend: {
       colors: {
-        'accent-1': '#FAFAFA',
-        'accent-2': '#EAEAEA',
-        'accent-7': '#333',
-        success: '#0070f3',
-        cyan: '#79FFE1',
+        red: '#bf616a',
+        orange: '#d08770',
+        yellow: '#ebcb8b',
+        green: '#a3be8c',
+        purple: '#b48ead',
+        gray: {
+          '100': '#2e3440',
+          '200': '#3b4252',
+          '300': '#434c5e',
+          '400': '#434c5e',
+          '600': '#d8dee9',
+          '700': '#d8dee9',
+          '800': '#eceff4'
+        }
       },
       // spacing: {
       //   28: '7rem',

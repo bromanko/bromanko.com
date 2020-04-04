@@ -1,5 +1,5 @@
 import Container from '../components/container'
-import Stories from '../components/stories'
+import Posts from '../components/posts'
 import Layout from '../components/layout'
 import { getAllPosts } from '../lib/api'
 import Head from 'next/head'
@@ -15,7 +15,7 @@ export default function Index({ allPosts }) {
         </Head>
         <Container>
           <Header />
-          <Stories posts={allPosts} />
+          <Posts posts={allPosts} />
         </Container>
       </Layout>
     </>
@@ -23,11 +23,11 @@ export default function Index({ allPosts }) {
 }
 
 export async function getStaticProps() {
-  const allPosts = getAllPosts([
+  const allPosts = await getAllPosts([
     'title',
     'date',
     'slug',
-    'excerpt',
+    'content'
   ])
 
   return {
