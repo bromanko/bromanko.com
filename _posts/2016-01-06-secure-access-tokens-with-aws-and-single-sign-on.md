@@ -16,9 +16,9 @@ access tokens? Amazon’s answer is the [AWS Security Token Service](http://docs
 
 The Security Token Service allows you to authenticate via a SAML provider and request a short-lived access token that can be used wherever you might typically use an IAM access token. The security benefits here are great.
 
-* STS tokens are only valid for a maximum of one hour. This reduces surface area in cases where a key is compromised.
-* Authentication and authorization are performed using your SAML identity provider and provisioned roles. You get all the same provisioning/de-provisioning benefits.
-* Support for multi-factor authentication challenges.
+- STS tokens are only valid for a maximum of one hour. This reduces surface area in cases where a key is compromised.
+- Authentication and authorization are performed using your SAML identity provider and provisioned roles. You get all the same provisioning/de-provisioning benefits.
+- Support for multi-factor authentication challenges.
 
 All we needed to do was integrate our SAML-based SSO provider (Okta) with the AWS API.
 Amazon provides a [few](http://blogs.aws.amazon.com/security/post/Tx1LDN0UBGJJ26Q/How-to-Implement-Federated-API-and-CLI-Access-Using-SAML-2-0-and-AD-FS)
@@ -29,7 +29,7 @@ support Okta (with multi-factor authentication via TOTP).
 The result is a user-friendly CLI for authenticating, generating an STS access token, and updating your local environment within seconds. It’s a big security enabler
 
 ![Generating AWS STS tokens via Okta SSO](/img/posts/2016-01-06-secure-access-tokens-with-aws-and-single-sign-on/aws-sts-generation.gif)
-*Generating AWS STS tokens via Okta SSO*
+_Generating AWS STS tokens via Okta SSO_
 
 ### How it Works
 

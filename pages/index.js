@@ -3,8 +3,8 @@ import Posts from '../components/posts'
 import Layout from '../components/layout'
 import { getAllPosts } from '../lib/api'
 import Head from 'next/head'
-import React from "react";
-import Header from "../components/header";
+import React from 'react'
+import Header from '../components/header'
 
 export default function Index({ allPosts }) {
   return (
@@ -23,12 +23,7 @@ export default function Index({ allPosts }) {
 }
 
 export async function getStaticProps() {
-  const allPosts = await getAllPosts([
-    'title',
-    'date',
-    'slug',
-    'content'
-  ])
+  const allPosts = await getAllPosts(['title', 'date', 'slug', 'content'])
 
   return {
     props: { allPosts },

@@ -1,7 +1,7 @@
 module.exports = {
   theme: {
     fontFamily: {
-      mono: ['Fantasque Sans Mono', 'monospace']
+      mono: ['Fantasque Sans Mono', 'monospace'],
     },
     extend: {
       colors: {
@@ -17,8 +17,8 @@ module.exports = {
           '400': '#434c5e',
           '600': '#d8dee9',
           '700': '#d8dee9',
-          '800': '#eceff4'
-        }
+          '800': '#eceff4',
+        },
       },
       // spacing: {
       //   28: '7rem',

@@ -14,9 +14,9 @@ After nearly 10 years away from .NET I decided to create a small project and tak
 
 ### Initial Decisions
 
-* I selected C# as my language since I’ve got the most experience with it. F# was calling but it was a distraction best saved for a later adventure.
-* As a strongly-typed, compiled language a capable IDE is imperative. Jetbrains won my heart with Resharper so I opted to use Rider rather than Visual Studio for Mac or VS Code.
-* Local development would be done via Docker containers. I’ve stopped installing development frameworks directly on my local machine. Instead I prefer Docker Compose and shell scripts for automating my local development experience. I take comfort in the ability to quickly get developing whenever I switch machines.
+- I selected C# as my language since I’ve got the most experience with it. F# was calling but it was a distraction best saved for a later adventure.
+- As a strongly-typed, compiled language a capable IDE is imperative. Jetbrains won my heart with Resharper so I opted to use Rider rather than Visual Studio for Mac or VS Code.
+- Local development would be done via Docker containers. I’ve stopped installing development frameworks directly on my local machine. Instead I prefer Docker Compose and shell scripts for automating my local development experience. I take comfort in the ability to quickly get developing whenever I switch machines.
 
 ### Solution Files
 

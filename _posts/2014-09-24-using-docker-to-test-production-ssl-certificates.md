@@ -67,7 +67,7 @@ Since I’m on OSX, this will be the IP of my boot2docker VM.
 fe80::1%lo0 localhost
 192.168.59.103 boot2docker
 192.168.59.103 www.bromanko.com
-192.168.59.103 bromanko.com 
+192.168.59.103 bromanko.com
 ```
 
 Opening a browser and pointing to `http://bromanko.com` will now resolve to

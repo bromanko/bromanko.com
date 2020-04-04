@@ -4,7 +4,7 @@ excerpt: I just rewrote our interest rate calculator. It distributes calculation
 date: '2015-09-25'
 ---
 
-*I just rewrote our interest rate calculator. It distributes calculations across a cluster of servers. The codebase is 10 times larger but it’s sooo fast! Could I get a code review? — Scotty*
+_I just rewrote our interest rate calculator. It distributes calculations across a cluster of servers. The codebase is 10 times larger but it’s sooo fast! Could I get a code review? — Scotty_
 
 This is a fictitious email out of my bad dreams. (Yes, I dream of emails. I prefer that to dreams about debugging.) It’s not that I don’t love performance improvements or distributed systems — both are important and have their place.
 
@@ -34,7 +34,6 @@ PASSMADE stands for:
 
 **E**xtensibility
 
-
 With unlimited resources, we’d invest equally — and heavily — in all of these. In the real world, we make tradeoffs. At Earnest, three principles are more important than the others: Security, Maintainability and Availability. We don’t avoid the other concerns. Having performant systems and accessible products is important. We merely prioritize these principles when making decisions. Here’s why:
 
 **Security**: Earnest is a financial technology company using tremendous amounts of data to evaluate our clients’ financial responsibility. The privacy and security of this data is of critical importance. The lifetime relationship with our clients is built upon the trust that we will keep their data safe.
@@ -54,4 +53,4 @@ If you also like secure, maintainable and available software — or distribu
 
 ---
 
-***New to Earnest?** Earnest is a technology company using cutting-edge data science, smarter design, and software automation to rebuild financial services. Founded on the belief that financially responsible people deserve better options and access to credit, Earnest’s lending products are built for a new generation seeking to reach life’s milestones. Using a unique data-driven underwriting process, Earnest understands every applicant’s full financial story to offer the lowest possible rates and radically flexible loan options for living life.*
+**\*New to Earnest?** Earnest is a technology company using cutting-edge data science, smarter design, and software automation to rebuild financial services. Founded on the belief that financially responsible people deserve better options and access to credit, Earnest’s lending products are built for a new generation seeking to reach life’s milestones. Using a unique data-driven underwriting process, Earnest understands every applicant’s full financial story to offer the lowest possible rates and radically flexible loan options for living life.\*

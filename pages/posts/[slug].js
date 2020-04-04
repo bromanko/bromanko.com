@@ -8,7 +8,7 @@ import Layout from '../../components/layout'
 import { getPostBySlug, getAllPosts } from '../../lib/api'
 import PostTitle from '../../components/post-title'
 import Head from 'next/head'
-import React from "react";
+import React from 'react'
 
 export default function Post({ post, morePosts, preview }) {
   const router = useRouter()
@@ -25,14 +25,9 @@ export default function Post({ post, morePosts, preview }) {
           <>
             <article className="mb-32">
               <Head>
-                <title>
-                  {post.title}
-                </title>
+                <title>{post.title}</title>
               </Head>
-              <PostHeader
-                title={post.title}
-                date={post.date}
-              />
+              <PostHeader title={post.title} date={post.date} />
               <PostBody content={post.content} />
             </article>
           </>
@@ -52,7 +47,7 @@ export async function getStaticProps({ params }) {
 
   return {
     props: {
-      post
+      post,
     },
   }
 }
@@ -61,7 +56,7 @@ export async function getStaticPaths() {
   const posts = await getAllPosts(['slug'])
 
   return {
-    paths: posts.map(posts => {
+    paths: posts.map((posts) => {
       return {
         params: {
           slug: posts.slug,

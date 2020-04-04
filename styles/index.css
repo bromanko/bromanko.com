@@ -2,17 +2,19 @@
 @tailwind base;
 
 @font-face {
-    font-family: "Fantasque Sans Mono";
-    font-weight: normal;
-    font-style: normal;
-    src: url(/fonts/FantasqueSansMonoRegular.ttf) format("truetype");
+  font-family: 'Fantasque Sans Mono';
+  font-weight: normal;
+  font-style: normal;
+  src: url(/fonts/FantasqueSansMonoRegular.ttf) format('truetype');
 }
 
 html {
-    box-sizing: border-box;
+  box-sizing: border-box;
 }
-*, *:before, *:after {
-    box-sizing: inherit;
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
 }
 
 @tailwind components;
