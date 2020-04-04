@@ -3,5 +3,9 @@ import React from 'react'
 
 export default function Date({ dateString }) {
   const date = parseISO(dateString)
-  return <time dateTime={dateString}>{format(date, 'LLLL	d, yyyy')}</time>
+  return (
+    <time className="text-gray-300" dateTime={dateString}>
+      {format(date, 'LLLL	d, yyyy')}
+    </time>
+  )
 }

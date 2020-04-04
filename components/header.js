@@ -5,7 +5,7 @@ export default function Header() {
   return (
     <Link href="/">
       <a>
-        <header className="bg-gray-200 text-white rounded-lg p-4 text-lg leading-loose">
+        <header className="bg-gray-600 text-white rounded-lg p-4 text-lg leading-loose">
           // Brian Romanko
           <br />
           // VP of Engineering at Bestow

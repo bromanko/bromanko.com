@@ -5,7 +5,7 @@ import PostFooter from './post-footer'
 
 export default function Post({ post }) {
   return (
-    <article className="mb-32">
+    <article className="mb-8">
       <PostHeader slug={post.slug} title={post.title} date={post.date} />
       <PostBody content={post.content} />
       <PostFooter />
