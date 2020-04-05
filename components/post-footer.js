@@ -1,5 +1,5 @@
 import React from 'react'
 
 export default function PostFooter({}) {
-  return <div className="">Something</div>
+  return <div className="border-t-6 mb-12" />
 }

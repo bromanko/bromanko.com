@@ -10,8 +10,6 @@ I was a .NET developer from the betas of Framework v1 to .NET 4. At that point I
 
 After nearly 10 years away from .NET I decided to create a small project and take some notes of my experience. I’m sure this post will be out of date rapidly.
 
----
-
 ### Initial Decisions
 
 - I selected C# as my language since I’ve got the most experience with it. F# was calling but it was a distraction best saved for a later adventure.

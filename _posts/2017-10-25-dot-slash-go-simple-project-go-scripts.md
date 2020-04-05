@@ -20,17 +20,17 @@ The ./go script user experience is important. Working with multiple teams I’ve
 
 I created [`dot-slash-go`](https://github.com/bromanko/dot-slash-go) to eliminate the boilerplate and encourage improved usability. Creating and documenting commands is so simple you’ve got no excuse to skip it!
 
----
-
 ### Installation
 
 Installation is a breeze. Navigate to your project root and run the following command:
 
-<script src="https://gist.github.com/bromanko/abeffe7fd48dec0f903859890beba066.js"></script>
+```bash
+bash -c "$(curl -sS https://raw.githubusercontent.com/bromanko/dot-slash-go/master/install)"
+```
 
 A guided process will ask you a series of questions to create a `./go` shell script and a `.go` folder to store metadata and commands.
 
-![Installing dot-slash-go](/assets/img/posts/2017-10-25-dot-slash-go-simple-project-go-scripts/installing-dot-slash-go.png)
+![Installing dot-slash-go](/img/posts/2017-10-25-dot-slash-go-simple-project-go-scripts/installing-dot-slash-go.png)
 _Installing dot-slash-go_
 
 Re-running the install script is safe. It will update `./go` to the latest version and will not delete any of your customizations.
@@ -39,7 +39,7 @@ Re-running the install script is safe. It will update `./go` to the latest versi
 
 Creating new commands is also simple. Just use the included command command.
 
-![Creating Commands](/assets/img/posts/2017-10-25-dot-slash-go-simple-project-go-scripts/creating-commands.png)
+![Creating Commands](/img/posts/2017-10-25-dot-slash-go-simple-project-go-scripts/creating-commands.png)
 _Creating a dot-slash-go command_
 
 The new build command, contextual help and usage information can be modified by editing `build`, `build.help` and `build.usage`. 🎉

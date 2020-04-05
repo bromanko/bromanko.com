@@ -26,7 +26,7 @@ Amazon provides a [few](http://blogs.aws.amazon.com/security/post/Tx1LDN0UBGJJ26
 this online, but do to technical challenges neither worked properly with Okta. So, we expanded the general idea to
 support Okta (with multi-factor authentication via TOTP).
 
-The result is a user-friendly CLI for authenticating, generating an STS access token, and updating your local environment within seconds. It’s a big security enabler
+The result is a user-friendly CLI for authenticating, generating an STS access token, and updating your local environment within seconds. It’s a big security enabler.
 
 ![Generating AWS STS tokens via Okta SSO](/img/posts/2016-01-06-secure-access-tokens-with-aws-and-single-sign-on/aws-sts-generation.gif)
 _Generating AWS STS tokens via Okta SSO_
