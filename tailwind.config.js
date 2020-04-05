@@ -7,7 +7,20 @@ module.exports = {
       colors: {
         red: '#bf616a',
         orange: '#d08770',
-        yellow: '#ebcb8b',
+        // http://mcg.mbitson.com/#!?mcgpalette0=%23ebcb8b
+        yellow: {
+          default: '#ebcb8b',
+          '50': '#fdf9f1',
+          '100': '#f9efdc',
+          '200': '#f5e5c5',
+          '300': '#f1dbae',
+          '400': '#eed39c',
+          '500': '#ebcb8b',
+          '600': '#e9c683',
+          '700': '#e5be78',
+          '800': '#e2b86e',
+          '900': '#ddac5b',
+        },
         green: '#a3be8c',
         blue: '#88c0d0',
         purple: '#b48ead',
