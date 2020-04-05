@@ -9,10 +9,12 @@
   @apply my-6;
 }
 
+.markdown a,
 .markdown a code {
   @apply bg-yellow-200 rounded-sm p-1 text-gray-400;
 }
 
+.markdown a:hover,
 .markdown a code:hover {
   @apply bg-yellow;
 }

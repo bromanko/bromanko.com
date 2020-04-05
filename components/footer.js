@@ -5,9 +5,6 @@ export default function Footer() {
   return (
     <Container>
       <footer className="text-center pb-16">
-        <Link href="/about">
-          <a href="">About</a>
-        </Link>
         <Link href="/feed.xml">
           <a href="">Feed</a>
         </Link>

@@ -17,14 +17,6 @@ html {
   box-sizing: inherit;
 }
 
-a {
-  @apply bg-yellow-200 rounded-sm p-1 text-gray-400;
-}
-
-a:hover {
-  @apply bg-yellow;
-}
-
 footer a {
   @apply bg-transparent mx-4 px-6 py-2 rounded-md;
 }
