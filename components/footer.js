@@ -5,8 +5,8 @@ export default function Footer() {
   return (
     <Container>
       <footer className="text-center pb-16">
-        <Link href="/feed.xml">
-          <a href="">Feed</a>
+        <Link href="/api/feed.xml">
+          <a>Feed</a>
         </Link>
         <a href="https://github.com/bromanko">
           <svg version="1.1" id="Github" viewBox="0 0 20 20">
