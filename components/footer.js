@@ -1,5 +1,4 @@
 import Link from 'next/link'
-import PageContent from './pageContent'
 
 export default function Footer() {
   return (

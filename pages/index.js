@@ -4,7 +4,6 @@ import Layout from '../components/layout'
 import { getAllPosts } from '../lib/api'
 import Head from 'next/head'
 import React from 'react'
-import Header from '../components/header'
 import * as constants from '../lib/constants'
 
 export default function Index({ allPosts }) {
