@@ -1,28 +1,32 @@
 import { useRouter } from 'next/router'
 import ErrorPage from 'next/error'
-import Container from '../../components/container'
+import PageContent from '../../components/pageContent'
 import Header from '../../components/header'
 import Layout from '../../components/layout'
 import { getPostBySlug, getAllPosts } from '../../lib/api'
 import PostTitle from '../../components/post-title'
 import React from 'react'
 import Post from '../../components/post'
+import Head from 'next/head'
+import * as constants from '../../lib/constants'
 
-export default function Slug({ post, preview }) {
+export default function Slug({ post }) {
   const router = useRouter()
   if (!router.isFallback && !post?.slug) {
     return <ErrorPage statusCode={404} />
   }
   return (
-    <Layout preview={preview}>
-      <Container>
-        <Header />
+    <Layout>
+      <Head>
+        <title>{`${constants.Title} :: ${post.slug}`}</title>
+      </Head>
+      <PageContent>
         {router.isFallback ? (
           <PostTitle>Loading…</PostTitle>
         ) : (
           <Post post={post} />
         )}
-      </Container>
+      </PageContent>
     </Layout>
   )
 }

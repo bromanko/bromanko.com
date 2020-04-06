@@ -1,4 +1,4 @@
-import Container from '../components/container'
+import PageContent from '../components/pageContent'
 import Posts from '../components/posts'
 import Layout from '../components/layout'
 import { getAllPosts } from '../lib/api'
@@ -14,10 +14,9 @@ export default function Index({ allPosts }) {
         <Head>
           <title>{constants.Title}</title>
         </Head>
-        <Container>
-          <Header />
+        <PageContent>
           <Posts posts={allPosts} />
-        </Container>
+        </PageContent>
       </Layout>
     </>
   )

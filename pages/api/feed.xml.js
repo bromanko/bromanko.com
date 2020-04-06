@@ -8,7 +8,7 @@ const addItemsToFeed = async (feed) => {
     feed.item({
       title: p.title,
       description: p.content,
-      url: p.slug,
+      url: `${constants.BaseUrl}/posts/${p.slug}`,
       date: p.date,
     })
   })
@@ -17,8 +17,8 @@ const addItemsToFeed = async (feed) => {
 export default async (req, res) => {
   const feed = new RSS({
     title: constants.Title,
-    feed_url: 'https://bromanko.com/api/feed.xml',
-    site_url: 'https://bromanko.com',
+    feed_url: `${constants.BaseUrl}/api/feed.xml`,
+    site_url: constants.BaseUrl,
   })
 
   await addItemsToFeed(feed)
