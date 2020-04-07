@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/feed.xml.js": {
+      "includeFiles": "_posts/**"
+    }
+  }
+}
