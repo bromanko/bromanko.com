@@ -74,7 +74,7 @@ Getting everything running in Docker was very easy. I was pleasantly surprised. 
 
 **docker-compose.yaml**
 
-```
+```yaml
 version: "2"
 services:
   dev:
