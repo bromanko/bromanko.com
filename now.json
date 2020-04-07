@@ -1,7 +1,7 @@
 {
   "functions": {
     "api/feed.xml.js": {
-      "runtime": "now-nodejs",
+      "runtime": "now-nodejs@latest",
       "includeFiles": "_posts/**"
     }
   }
