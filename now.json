@@ -2,7 +2,7 @@
   "trailingSlash": false,
   "builds": [
     {
-      "src": "api/feed.js",
+      "src": "pages/api/feed.js",
       "use": "@now/node",
       "config": {
         "includeFiles": "_posts/**"
