@@ -9,7 +9,7 @@ export default class MyDocument extends Document {
           <link
             rel="alternate"
             title="bromanko RSS"
-            href="/api/feed.xml"
+            href="/api/feed"
             type="application/rss+xml"
           />
         </Head>
