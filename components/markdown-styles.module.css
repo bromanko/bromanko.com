@@ -48,7 +48,7 @@
 }
 
 .markdown code {
-  @apply bg-gray-100 rounded-md p-1;
+  @apply rounded-md p-1;
 }
 
 .markdown ul, .markdown ol {
