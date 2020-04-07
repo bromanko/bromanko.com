@@ -1,8 +1,12 @@
 {
   "trailingSlash": false,
-  "functions": {
-    "api/feed.js": {
-      "includeFiles": "_posts/**"
+  "builds": [
+    {
+      "src": "api/feed.js",
+      "use": "@now/node",
+      "config": {
+        "includeFiles": "_posts/**"
+      }
     }
-  }
+  ]
 }
