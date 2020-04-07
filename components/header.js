@@ -6,12 +6,11 @@ export default function Header() {
     <Link href="/">
       <a>
         <header className="bg-gray-600 text-white rounded-lg p-4 text-lg leading-loose">
-          // Brian Romanko
+          Brian Romanko
           <br />
-          // VP of Engineering at Bestow
+          VP of Engineering at Bestow
           <br />
-          // Passionate about software, design, and building high-performing
-          teams
+          Passionate about software, design, and building high-performing teams
         </header>
       </a>
     </Link>
