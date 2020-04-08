@@ -40,7 +40,7 @@
 }
 
 .markdown pre {
-  @apply overflow-x-auto overflow-y-hidden bg-gray-400 rounded-lg p-2;
+  @apply overflow-x-auto overflow-y-hidden text-gray-300 bg-gray-400 rounded-lg p-2;
 }
 
 .markdown pre code {
