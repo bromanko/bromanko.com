@@ -44,11 +44,11 @@
 }
 
 .markdown pre code {
-  @apply block;
+  @apply block bg-gray-400;
 }
 
 .markdown code {
-  @apply rounded-md p-1;
+  @apply rounded-md p-1 bg-gray-200;
 }
 
 .markdown ul, .markdown ol {

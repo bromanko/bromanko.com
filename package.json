@@ -3,9 +3,9 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start"
+    "dev": "scripts/entrypoint.sh next dev",
+    "build": "scripts/entrypoint.sh next build",
+    "start": "scripts/entrypoint.sh next start"
   },
   "dependencies": {
     "classnames": "^2.2.6",
