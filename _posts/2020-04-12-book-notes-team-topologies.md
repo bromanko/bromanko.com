@@ -8,7 +8,7 @@ date: '2020-04-12'
 **Date Read:** April 2020  
 **Recommended:** 10/10
 
-When I read non-finction books I highlight salient points. I then export these notes to act as a point of reference for my future self. I may also share them with colleagues to quickly bring them up to speed with key points. All quotes reference a Kindle “page” location. My biggest take-aways are highlighted.
+When I read non-fiction books I highlight salient points. I then export these notes to act as a point of reference for my future self. I may also share them with colleagues to quickly bring them up to speed with key points. All quotes reference a Kindle “page” location. My biggest take-aways are highlighted.
 
 ## Notes
 ### Part I - Teams as the Means of Delivery
