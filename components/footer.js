@@ -3,9 +3,9 @@ import Link from 'next/link'
 export default function Footer() {
   return (
     <footer className="text-center pb-16">
-      <Link href="/api/feed.xml">
-        <a>Feed</a>
-      </Link>
+      {/*<Link href="/api/feed.xml">*/}
+      {/*  <a>Feed</a>*/}
+      {/*</Link>*/}
       <a href="https://github.com/bromanko">
         <svg version="1.1" id="Github" viewBox="0 0 20 20">
           <path
