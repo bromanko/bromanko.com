@@ -17,7 +17,7 @@ const addItemsToFeed = async (feed) => {
 ;(async function () {
   const feed = new RSS({
     title: constants.Title,
-    feed_url: `${constants.BaseUrl}/api/feed.xml`,
+    feed_url: `${constants.BaseUrl}/feed.xml`,
     site_url: constants.BaseUrl,
   })
 

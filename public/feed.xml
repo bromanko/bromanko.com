@@ -1,0 +1,1086 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[bromanko on the www]]></title>
+        <description><![CDATA[bromanko on the www]]></description>
+        <link>https://bromanko.com</link>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Mon, 13 Apr 2020 15:24:31 GMT</lastBuildDate>
+        <atom:link href="https://bromanko.com/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Book Notes — Team Topologies: Organizing Business and Technology Teams for Fast Flow]]></title>
+            <description><![CDATA[<p><strong>Title:</strong> <a href="https://www.amazon.com/Team-Topologies-Organizing-Business-Technology/dp/1942788819">Team Topologies: Organizing Business and Technology Teams for Fast Flow by Matthew Skelton and Manuel Pais</a><br>
+<strong>ISBN:</strong> 1942788819<br>
+<strong>Date Read:</strong> April 2020<br>
+<strong>Recommended:</strong> 10/10</p>
+<p>When I read non-fiction books I highlight salient points. I then export these notes to act as a point of reference for my future self. I may also share them with colleagues to quickly bring them up to speed with key points. All quotes reference a Kindle “page” location. My biggest take-aways are highlighted.</p>
+<h2>Notes</h2>
+<h3>Part I - Teams as the Means of Delivery</h3>
+<blockquote>
+<p>Teams should be long lived and autonomous, with engaged team members.<br>
+<em>Location 259</em></p>
+</blockquote>
+<blockquote>
+<p>Organizations not only need to strive for autonomous teams, they also need to continuously think about and evolve themselves in order to deliver value quickly to customers.<br>
+<em>Location 271</em></p>
+</blockquote>
+<blockquote>
+<p><mark>There is huge value in agreeing to a coherent vocabulary and way of working together across teams to achieve good software delivery.</mark><br>
+<em>Location 298</em></p>
+</blockquote>
+<h4>Chapter 1: The Problem with Org Charts</h4>
+<blockquote>
+<p>Organizations need stable teams and effective team patterns and interactions. They need to invest in empowered, skilled teams as the foundation for agility and adaptability.<br>
+<em>Location 386</em></p>
+</blockquote>
+<blockquote>
+<p><mark>We must shift our thinking from treating teams as collections of interchangeable individuals that will succeed as long as they follow the “right” process and use the “right” tools, to treating people and technology as a single human-computer carbon-silicon sociotechnical ecosystem.</mark><br>
+<em>Location 392</em></p>
+</blockquote>
+<blockquote>
+<p>At the same time, we need to ensure that teams are intrinsically motivated and are given a real chance of doing their best work within such a system.<br>
+<em>Location 394</em></p>
+</blockquote>
+<blockquote>
+<p>Relying on the org chart as a principal mechanism of splitting the work to be done leads to unrealistic expectations. We need to rely instead on decoupled, long-lived teams that can collaborate effectively to meet the challenge of balancing speed and safety.<br>
+<em>Location 403</em></p>
+</blockquote>
+<blockquote>
+<p><mark>The problem with taking the org chart at face value is that we end up trying to architect people as if they were software, neatly keeping their communication within the accepted lines. But people don’t restrict their communications only to those connected lines on the chart.</mark><br>
+<em>Location 405</em></p>
+</blockquote>
+<p><img src="864DCEAB-C3EA-4989-9586-438FC3566613.png">
+<em>Location 410</em></p>
+<blockquote>
+<p>Decisions based on org-chart structure tend to optimize for only part of the organization, ignoring upstream and downstream effects.<br>
+<em>Location 418</em></p>
+</blockquote>
+<blockquote>
+<p>Systems thinking focuses on optimizing for the whole, looking at the overall flow of work, identifying what the largest bottleneck is today, and eliminating it.<br>
+<em>Location 423</em></p>
+</blockquote>
+<blockquote>
+<p>Formal structure (the org chart)—facilitates compliance. Informal structure—the “realm of influence” between individuals Value creation structure—how work actually gets done based on inter-personal and inter-team reputation<br>
+<em>Location 438</em></p>
+</blockquote>
+<blockquote>
+<p>Instead of a single structure, what is needed is a model that is adaptable to the current situation—one that takes into consideration how teams grow and interact with each other.<br>
+<em>Location 459</em></p>
+</blockquote>
+<blockquote>
+<p><mark>Teams have a finite cognitive capacity that needs to be respected.</mark><br>
+<em>Location 482</em></p>
+</blockquote>
+<blockquote>
+<p><mark>Team structures must match the required software architecture or risk producing unintended designs.</mark><br>
+<em>Location 503</em></p>
+</blockquote>
+<blockquote>
+<p><mark>“inverse Conway maneuver” (or reverse Conway maneuver), whereby an organization focuses on organizing team structures to match the architecture they want the system to exhibit rather than expecting teams to follow a mandated architecture design.</mark><br>
+<em>Location 506</em></p>
+</blockquote>
+<blockquote>
+<p><mark>When cognitive load isn’t considered, teams are spread thin trying to cover an excessive amount of responsibilities and domains. Such a team lacks bandwidth to pursue mastery of their trade and struggles with the costs of switching contexts.</mark><br>
+<em>Location 518</em></p>
+</blockquote>
+<p>Relevant case-study quote:</p>
+<blockquote>
+<p>Victims of their own success, sprint planning for the now eight-person-strong team was a mix and match of requests across their stack of responsibilities. Prioritization was hard, and the frequent context switching even throughout a single sprint led to a dip in people’s motivation.<br>
+<em>Location 523</em></p>
+</blockquote>
+<h4>Chapter 2: Conway’s Law and Why it Matters</h4>
+<blockquote>
+<p>Our research lends support to what is sometimes called the “inverse Conway maneuver,” which states that organizations should evolve their team and organizational structure to achieve the desired architecture. The goal is for your architecture to support the ability of teams to get their work done—from design through to deployment—without requiring high-bandwidth communication between teams.<br>
+<em>Location 627</em></p>
+</blockquote>
+<p><img src="2F25792A-EB76-40C7-A3E4-B6BF5BA90AEE.png">
+<em>Location 665</em></p>
+<blockquote>
+<p>Team assignments are the first draft of the architecture.<br>
+<em>Location 675</em></p>
+</blockquote>
+<blockquote>
+<p><mark>Organization design and software design are, in practice, two sides of the same coin, and both need to be undertaken by the same informed group of people.</mark><br>
+<em>Location 704</em></p>
+</blockquote>
+<blockquote>
+<p>“managers should focus their efforts on understanding the causes of unaddressed design interfaces . . . and unpredicted team interactions . . . across modular systems.”<br>
+<em>Location 718</em></p>
+</blockquote>
+<blockquote>
+<p>Generally speaking, we need to optimize for fast flow, so stream-aligned teams are preferred.<br>
+<em>Location 782</em></p>
+</blockquote>
+<blockquote>
+<p>Fast flow requires restricting communication between teams. Team collaboration is important for gray areas of development, where discovery and expertise is needed to make progress. But in areas where execution prevails—not discovery—communication becomes an unnecessary overhead.<br>
+<em>Location 798</em></p>
+</blockquote>
+<blockquote>
+<p>Driskell and Salas found that teams working as a cohesive unit perform far better than collections of individuals for knowledge-rich, problem-solving tasks that require high amounts of information.<br>
+<em>Location 811</em></p>
+</blockquote>
+<h4>Chapter 3: Team-First Thinking</h4>
+<blockquote>
+<p>Research by Google on their own teams found that who is on the team matters less than the team dynamics;<br>
+<em>Location 819</em></p>
+</blockquote>
+<blockquote>
+<p><mark>Use Small, Long-Lived Teams as the Standard. By team, we mean a stable grouping of five to nine people who work toward a shared goal as a unit. We consider the team to be the smallest entity of delivery within the organization. Therefore, an organization should never assign work to individuals; only to teams.</mark><br>
+<em>Location 825</em></p>
+</blockquote>
+<blockquote>
+<p>Dunbar’s number. Dunbar found fifteen to be the limit of the number of people one person can trust deeply. From those, only around five people can be known and trusted closely.<br>
+<em>Location 829</em></p>
+</blockquote>
+<blockquote>
+<p><mark>Organizations need to maximize trust between people on a team, and that means limiting the number of team members. If trust is missing or reduced due to a larger group of people, speed and safety of delivery will suffer.</mark><br>
+<em>Location 834</em></p>
+</blockquote>
+<blockquote>
+<p><mark>Teams take time to form and be effective. Typically, a team can take from two weeks to three months or more to become a cohesive unit. There’s a ramp-up period necessary to bring people up to speed, but the communication lines inside the team also increase significantly with every new member. Not only that, but there is an emotional adaptation required both from new and old team members in order to understand and accommodate each other’s points of view and work habits (the “storming” stage of Tuckman’s team-development model).</mark><br>
+<em>Location 876</em></p>
+</blockquote>
+<blockquote>
+<p><mark>The best approach to team lifespans is to keep the team stable and “flow the work to the team,” as Allan Kelly says in his 2018 book Project Myopia. Teams should be stable but not static, changing only occasionally and when necessary. In high-trust organizations, people may change teams once a year without major detrimental effects on team performance.</mark><br>
+<em>Location 886</em></p>
+</blockquote>
+<blockquote>
+<p><mark>The danger of allowing multiple teams to change the same system or subsystem is that no one owns either the changes made or the resulting mess. When a single team owns the system or subsystem, and the team has the autonomy to plan their own work, then that team can make sensible decisions about short-term fixes with the knowledge that they will be removing any dirty fixes in the next few weeks. Every part of the software system needs to be owned by exactly one team. This means there should be no shared ownership of components, libraries, or code. Teams may use shared services at runtime, but every running service, application, or subsystem is owned by only one team.</mark><br>
+<em>Location 908</em></p>
+</blockquote>
+<blockquote>
+<p>Outside teams may submit pull requests or suggestions for change to the owning team, but they cannot make changes themselves. The owning team may even trust another team so much that they grant them access to the code for a period of time, but only the original team retains ownership.<br>
+<em>Location 913</em></p>
+</blockquote>
+<blockquote>
+<p>Note that team ownership of code should not be a territorial thing. The team takes responsibility for the code and cares for it, but individual team members should not feel like the code is theirs to the exclusion of others. Instead, teams should view themselves as stewards or caretakers as opposed to private owners. Think of code as gardening, not policing.<br>
+<em>Location 915</em></p>
+</blockquote>
+<blockquote>
+<p>For teams to work, team members should put the needs of the team above their own. They should:</p>
+<ul>
+<li>Arrive for stand-ups and meetings on time.</li>
+<li>Keep discussions and investigations on track.</li>
+<li>Encourage a focus on team goals.</li>
+<li>Help unblock other team members before starting on new work.</li>
+<li>Mentor new or less experienced team members.</li>
+<li>Avoid “winning” arguments and, instead, agree to explore options.
+<em>Location 921</em></li>
+</ul>
+</blockquote>
+<blockquote>
+<p><mark>Looking to reward individual performance in modern organizations tends to drive poor results and damages staff behavior.</mark><br>
+Location 944</p>
+</blockquote>
+<blockquote>
+<p>Organizations should not allow a software subsystem to grow beyond the cognitive load of the team responsible for the software. Cognitive load was characterized in 1988 by psychologist John Sweller as “the total amount of mental effort being used in the working memory.” When measuring cognitive load, what we really care about is the domain complexity—how complex is the problem that we’re trying to solve with software?<br>
+<em>Location 967</em></p>
+</blockquote>
+<blockquote>
+<p>To get started, identify distinct domains that each team has to deal with, and classify these domains into simple (most of the work has a clear path of action), complicated (changes need to be analyzed and might require a few iterations on the solution to get it right), or complex (solutions require a lot of experimentation and discovery). You should finetune the resulting classification by comparing pairs of domains across teams: How does domain A stack against domain B? Do they have similar complexity or is one clearly more complex than the other? Does the current domain classification reflect that? The second heuristic is that a single team (considering the golden seven-to-nine team size) should be able to accommodate two to three “simple” domains. The third heuristic is that a team responsible for a complex domain should not have any more domains assigned to them—not even a simple one. The last heuristic is to avoid a single team responsible for two complicated domains.<br>
+<em>Location 1042</em></p>
+</blockquote>
+<p><img src="02028CDA-B548-4DB4-8FF6-F6F20444CAF4.png">
+<em>Location 1050</em></p>
+<blockquote>
+<p><mark>Change the management style by communicating goals and outcomes rather than obsessing over the “how,” what McChrystal calls “Eyes On, Hands Off” in Team of Teams.</mark><br>
+<em>Location 1074</em></p>
+</blockquote>
+<blockquote>
+<p>Team API: an API surrounding each team. An API (application programming interface) is a description and specification for how to interact programmatically with software, so we extend this idea to entire interactions with the team. The team API includes:</p>
+<ul>
+<li>Code: runtime endpoints, libraries, clients, UI, etc. produced by the team</li>
+<li>Versioning: how the team communicates changes to its code and services (e.g., using semantic versioning [SemVer] as a “team promise” not to break things)</li>
+<li>Wiki and documentation: especially how-to guides for the software owned by the team</li>
+<li>Practices and principles: the team’s preferred ways of working</li>
+<li>Communication: the team’s approach to remote communication tools, such as chat tools and video conferencing</li>
+<li>Work information: what the team is working on now, what’s coming next, and overall priorities in the short to medium term</li>
+<li>Other: anything else that other teams need to use to interact with the team
+<em>Location 1102</em></li>
+</ul>
+</blockquote>
+<blockquote>
+<p>For effective team-first ownership of software, teams need to continuously define, advertise, test, and evolve their team API to ensure that it is fit for purpose for the consumers of that API: other teams.<br>
+<em>Location 1113</em></p>
+</blockquote>
+<blockquote>
+<p><mark>It is important to provide time, space, and money to enable and encourage people from different teams with similar skills and expertise to come together to learn from each other and to develop their professional competencies. (1) a consciously designed physical and virtual environment; and (2) time away from desks at guilds, communities of practice (a group of people who regularly get together on a voluntary basis to collectively learn and share knowledge about a domain of interest, internal tech conferences, etc.</mark><br>
+<em>Location 1129</em></p>
+</blockquote>
+<h3>Part II - Team Topologies that Work for Flow</h3>
+<blockquote>
+<p>Part II, we investigate a set of static team patterns that have been proven in the industry and the implications of choosing one pattern over another with Conway’s law and organizational context in mind.<br>
+<em>Location 304</em></p>
+</blockquote>
+<h4>Chapter 4: Static Team Topologies</h4>
+<p><strong>Team Anti-Patterns</strong></p>
+<blockquote>
+<p>The first anti-pattern is ad hoc team design. The other common anti-pattern is shuffling team members. While there is a sense of higher flexibility and a perceived ability to respond faster to deadlines, the cost of forming new teams and switching context repeatedly gets overlooked (or is unconsciously factored in the project estimates). A computer will perform the same whether it is placed in Room A or Room B, but an engineer placed on Team A may perform very differently than if placed on Team B.<br>
+<em>Location 1307</em></p>
+</blockquote>
+<blockquote>
+<p><mark>Organizations must design teams intentionally by asking these questions: Given our skills, constraints, cultural and engineering maturity, desired software architecture, and business goals, which team topology will help us deliver results faster and safer?</mark><br>
+<em>Location 1316</em></p>
+</blockquote>
+<blockquote>
+<p><mark>How can we reduce or avoid handovers between teams in the main flow of change? Where should the boundaries be in the software system in order to preserve system viability and encourage rapid flow? How can our teams align to that?</mark><br>
+<em>Location 1317</em></p>
+</blockquote>
+<blockquote>
+<p>There is no “right” topology, but several “bad” topologies for any one organization.<br>
+<em>Location 1397</em></p>
+</blockquote>
+<blockquote>
+<p>We consider a feature team to be a cross-functional, cross-component team that can take a customer facing feature from idea all the way to production, making them available to customers and, ideally, monitoring its usage and performance. Are these a pattern or an anti-pattern? As you might have guessed by now, it depends. A cross-functional feature team can bring high value to an organization by delivering cross-component, customer-centric features much faster than multiple component teams making their own changes and synchronizing into a single release. But this can only happen when the feature team is self-sufficient, meaning they are able to deliver features into production without waiting for other teams.<br>
+The feature team typically needs to touch multiple codebases, which might be owned by different component teams. If the team does not have a high degree of engineering maturity, they might take shortcuts, such as not automating tests for new user workflows or not following the “boy-scout rule” (leaving the code better than they found it). Over time, this leads to a breakdown of trust between teams as technical debt increases and slows down delivery speed.<br>
+<em>Location 1404</em></p>
+</blockquote>
+<blockquote>
+<p>Someone still had to keep oversight of the system as a whole and ensure subsystems integrated and interacted according to the desired user experience, performance, and reliability. Therefore, specific roles were created, such as system architects, system owners, or integration leads. Crucially, people in these roles work across the entire project/organization sort of like “communication conduits,” with direct and frequent interaction with feature teams. They support them on cross-subsystem concerns (such as interfaces and integration) to allow them to maintain a regular feature delivery cadence.<br>
+<em>Location 1421</em></p>
+</blockquote>
+<blockquote>
+<p>Product teams (identical in purpose and characteristics to a feature team but owning the entire set of features for one or more products). Microsoft has been using product teams since the 1980s. There is increased friction as product teams are pressured to deliver faster, but they are part of a system that does not support the necessary levels of autonomy.<br>
+<em>Location 1426</em></p>
+</blockquote>
+<p><img src="2306003A-E210-4D7E-9978-437F45590459.png">
+<em>Location 1511</em></p>
+<blockquote>
+<p>“Visualizing important cross-team information helps communicate across teams.”<br>
+<em>Location 1535</em></p>
+</blockquote>
+<blockquote>
+<p><strong>[There are] three different categories of dependency: knowledge, task, and resource dependencies.</strong><br>
+<em>Location 1535</em></p>
+</blockquote>
+<blockquote>
+<p><mark>Whichever tool is used, it is important to track the number of dependencies per area, and to establish thresholds and alerts that are meaningful for a particular situation. The number of dependencies should not be allowed to increase unchecked. Instead, such an increase should trigger adjustments in the team design and dependencies.</mark><br>
+<em>Location 1539</em></p>
+</blockquote>
+<h4>Chapter 5: The Four Fundamental Team Topologies</h4>
+<ul>
+<li>Stream-aligned team</li>
+<li>Enabling team</li>
+<li>Complicated-subsystem team</li>
+<li>Platform team
+<em>Location 1608</em></li>
+</ul>
+<blockquote>
+<p><mark>Multiple stream-aligned teams are the starting point. but an organization may also have several platform teams, a few enabling teams for different purposes (perhaps one addressing CI/CD and a second addressing infrastructure or architecture), and, if strictly necessary, one or two complicated-subsystem teams.</mark><br>
+<em>Location 1620</em></p>
+</blockquote>
+<blockquote>
+<p>There is no “Ops” team or “support” team in the fundamental topologies, and this is deliberate.<br>
+<em>Location 1624</em></p>
+</blockquote>
+<p><strong>Stream-Aligned Team</strong></p>
+<blockquote>
+<p><mark>A stream-aligned team is a team aligned to a single, valuable stream of work; this might be a single product or service, a single set of features, a single user journey, or a single user persona. Further, the team is empowered to build and deliver customer or user value as quickly, safely, and independently as possible, without requiring hand-offs to other teams to perform parts of the work.</mark><br>
+<em>Location 1634</em></p>
+</blockquote>
+<blockquote>
+<p>The stream-aligned team is the primary team type in an organization, and the purpose of the other fundamental team topologies is to reduce the burden on the stream-aligned teams.<br>
+<em>Location 1636</em></p>
+</blockquote>
+<blockquote>
+<p>The mission of an enabling team, for instance, is to help stream-aligned teams acquire missing capabilities, taking on the effort of research and trials, and setting up successful practices. The mission of a platform team is to reduce the cognitive load of stream-aligned teams by off-loading lower level detailed knowledge (e.g., provisioning, monitoring, or deployment), providing easy-to-consume services around them.<br>
+<em>Location 1638</em></p>
+</blockquote>
+<blockquote>
+<p><mark>A stream-aligned team works on the full spectrum of delivery, they are, by necessity, closer to the customer and able to quickly incorporate feedback from customers while monitoring their software in production.</mark><br>
+<em>Location 1641</em></p>
+</blockquote>
+<blockquote>
+<p><mark>Whichever kind of stream of changes a stream-aligned team is aligned to, that team is funded in a long-term, sustainable manner as part of a portfolio or program of work, not as a fleeting project.</mark><br>
+<em>Location 1648</em></p>
+</blockquote>
+<blockquote>
+<p>This stands in stark contrast to traditional work allocation, whereby either a large request by a single customer or a set of smaller requests by multiple customers get translated into a project. Once the project is approved and funded, several teams will potentially get involved (e.g., front-end, back-end, and DBA teams) and be required to fit the new work into their existing backlog.<br>
+<em>Location 1652</em></p>
+</blockquote>
+<blockquote>
+<p>Generally speaking, each stream-aligned team will require a set of capabilities in order to progress work from its initial (requirements) exploration stages to production. These capabilities include (but are not restricted to):</p>
+<ul>
+<li>Application security</li>
+<li>Commercial and operational viability analysis</li>
+<li>Design and architecture</li>
+<li>Development and coding</li>
+<li>Infrastructure and operability</li>
+<li>Metrics and monitoring</li>
+<li>Product management and ownership</li>
+<li>Testing and quality assurance</li>
+<li>User experience (UX)
+<em>Location 1677</em></li>
+</ul>
+</blockquote>
+<blockquote>
+<p>Instead, we’re talking about being able, as a team, to understand and act upon the above capabilities. This might mean having a mix of generalists and a few specialists.<br>
+<em>Location 1683</em></p>
+</blockquote>
+<blockquote>
+<p>Customers interact not just with a discrete piece of software but with a range of products and devices that all run different kinds of software, from mobile to embedded to voice-led controls. Customers also interact with brands via multiple channels (in person, social media, website, phone), expecting consistent responses and interfaces. In this multi-channel, highly connected context, a “product” can mean very different things, making it hard to understand what the responsibilities of a “product team” are.<br>
+<em>Location 1695</em></p>
+</blockquote>
+<blockquote>
+<p>The term “stream aligned” more suited to a wider range of situations than either “product” of “feature,” but “stream aligned” also incorporates and helps to emphasize a sense of flow (because a stream flows). Finally, not all software situations need products or features (especially those focused on providing public services), but all software situations benefit from alignment to flow. A stream-aligned team aims to produce a steady flow of feature delivery.</p>
+<ul>
+<li>A stream-aligned team is quick to course correct based on feedback from the latest changes.</li>
+<li>A stream-aligned team uses an experimental approach to product evolution, expecting to constantly learn and adapt.</li>
+<li>A stream-aligned team has minimal (ideally zero) hand-offs of work to other teams.</li>
+<li>A stream-aligned team is evaluated on the sustainable flow of change it produces (together with some supporting technical and team-health metrics).</li>
+<li>A stream-aligned team must have time and space to address code quality changes (sometimes called “tech debt”) to ensure that changing the code remains safe and easy to do.</li>
+<li>A stream-aligned team proactively and regularly reaches out to the supporting fundamental-topologies teams (complicated subsystem, enabling, and platform).</li>
+<li>Members of a stream-aligned team feel they have achieved or are in the path to achieving “autonomy, mastery, and purpose,” the three key components of engaged knowledge workers, according to Daniel Pink.
+<em>Location 1703</em></li>
+</ul>
+</blockquote>
+<p><strong>Enabling Teams</strong></p>
+<blockquote>
+<p><mark>An enabling team is composed of specialists in a given technical (or product) domain, and they help bridge this capability gap. Such teams cross-cut to the stream-aligned teams and have the required bandwidth to research, try out options, and make informed suggestions on adequate tooling, practices, frameworks, and any of the ecosystem choices around the application stack.</mark><br>
+<em>Location 1723</em></p>
+</blockquote>
+<blockquote>
+<p>Enabling teams have a strongly collaborative nature; they thrive to understand the problems and shortcomings of stream-aligned teams in order to provide effective guidance. Jutta Eckstein calls them “Technical Consulting Teams,” a definition that maps well to what we’d expect a consulting team to provide (guidance, not execution), whether internal or external to the organization.<br>
+<em>Location 1728</em></p>
+</blockquote>
+<blockquote>
+<p>Enabling teams actively avoid becoming “ivory towers” of knowledge, dictating technical choices for other teams to follow, while helping teams to understand and comply with organization-wide technology constraints. The end goal of an enabling team is to increase the autonomy of stream-aligned teams by growing their capabilities with a focus on their problems first, not the solutions per se. If an enabling team does its job well, the team that it is helping should no longer need the help from the enabling team after a few weeks or months; there should not be a permanent dependency on an enabling team.<br>
+<em>Location 1731</em></p>
+</blockquote>
+<blockquote>
+<p>A single enabling team might map to any of the stream-aligned team capabilities we listed in the previous section (user experience, architecture, testing, and so on), but often they are focused on more specific areas, such as build engineering, continuous delivery, deployments, or test automation for particular client technology (e.g., desktop, mobile, web). For example, the enabling team might set up a walking skeleton of a deployment pipeline or a basic test framework combining automation tools and some initial scenarios and examples.<br>
+<em>Location 1740</em></p>
+</blockquote>
+<ul>
+<li>An enabling team proactively seeks to understand the needs of stream-aligned teams, establishing regular checkpoints and jointly agreeing when more collaboration is needed.</li>
+<li>An enabling team stays ahead of the curve in keeping abreast of new approaches, tooling, and practices in their area of expertise, well before an actual need is expected from stream-aligned teams. In the past, this has been the mission of architecture or innovation teams, but the focus on enabling other teams creates a better dynamic.</li>
+<li>An enabling team acts as a messenger of both good news (e.g., “There’s a new UI automation framework that can reduce our custom test code by 50%.”) and bad news (e.g., “Javascript framework X, which we’re using extensively, is no longer actively maintained.”). This helps with management of the technology life cycle.</li>
+<li>Occasionally, the enabling team might act as a proxy for external (or internal) services that are currently too difficult for stream-aligned teams to use directly.</li>
+<li>An enabling team promotes learning not only inside the enabling team but across stream-aligned teams, acting as a curator that facilitates appropriate knowledge sharing inside the organization (supporting what Tom DeMarco and Tim Lister call a “key learning function.”
+<em>Location 1750</em></li>
+</ul>
+<blockquote>
+<p>Enabling teams do not exist to fix problems that arise from poor practices, poor prioritization choices, or poor code quality within stream-aligned teams. Stream-aligned teams should expect to work with enabling teams only for short periods of time (weeks or months) in order to increase their capabilities around a new technology, concept, or approach. After the new skills and understanding have been embedded in the stream-aligned team, the enabling team will stop daily interaction with the stream-aligned team, switching their focus to a different team.<br>
+<em>Location 1787</em></p>
+</blockquote>
+<p><strong>Complicated-Subsystem Teams</strong></p>
+<blockquote>
+<p><mark>Complicated-subsystem team is responsible for building and maintaining a part of the system that depends heavily on specialist knowledge, to the extent that most team members must be specialists in that area of knowledge in order to understand and make changes to the subsystem.</mark><br>
+<em>Location 1801</em></p>
+</blockquote>
+<blockquote>
+<p>The goal of this team is to reduce the cognitive load of stream-aligned teams working on systems that include or use the complicated subsystem. The team handles the subsystem complexity via specific capabilities and expertise that are typically hard to find or grow. We can’t expect to embed the necessary specialists in all the stream-aligned teams that make use of the subsystem; it would not be feasible, cost-effective, or in line with the stream-aligned team’s goals.<br>
+<em>Location 1803</em></p>
+</blockquote>
+<blockquote>
+<p>We expect to have only a few complicated-subsystem teams in a Team Topologies–driven organization<br>
+<em>Location 1812</em></p>
+</blockquote>
+<ul>
+<li>A complicated-subsystem team is mindful of the current stage of development of the subsystem and acts accordingly: high collaboration with stream-aligned teams during early exploration and development phases; reduced interaction and focus on the subsystem interface and feature evolution and usage during later stages, when the subsystem has stabilized.</li>
+<li>With a complicated-subsystem team, delivery speed and quality for the subsystem is clearly higher than if/ when the subsystem was being developed by a stream-aligned team (before the decision to split).</li>
+<li>The complicated-subsystem team correctly prioritizes and delivers upcoming work respecting the needs of the stream-aligned teams that use the complicated subsystem.
+<em>Location 1817</em></li>
+</ul>
+<p><strong>Platform Teams</strong></p>
+<blockquote>
+<p><mark>The purpose of a platform team is to enable stream-aligned teams to deliver work with substantial autonomy. The stream-aligned team maintains full ownership of building, running, and fixing their application in production. The platform team provides internal services to reduce the cognitive load that would be required from stream-aligned teams to develop these underlying services.</mark><br>
+<em>Location 1824</em></p>
+</blockquote>
+<blockquote>
+<p>A digital platform is a foundation of self-service APIs, tools, services, knowledge and support which are arranged as a compelling internal product. Autonomous delivery teams can make use of the platform to deliver product features at a higher pace, with reduced coordination.<br>
+<em>Location 1828</em></p>
+</blockquote>
+<blockquote>
+<p>The platform team’s knowledge is best made available via self-service capabilities via a web portal and/ or programmable API (as opposed to lengthy instruction manuals) that the stream-aligned teams can easily consume.<br>
+<em>Location 1831</em></p>
+</blockquote>
+<blockquote>
+<p>Teams must treat the services they offer as products that are reliable, usable, and fit for purpose, regardless of if they are consumed by internal or external customers. Jutta Eckstein has a suitable recommendation: “Technical-service teams should always regard themselves as pure service providers for the domain teams.”<br>
+<em>Location 1833</em></p>
+</blockquote>
+<blockquote>
+<p>Platform teams are expected to focus on providing a smaller number of services of acceptable quality rather than a large number of services with many resilience and quality problems.<br>
+<em>Location 1839</em></p>
+</blockquote>
+<blockquote>
+<p>Platform examples at a lower level of the stack could range from provisioning a new server instance to providing tools for access management and security enforcement. A stream-aligned team can then decide to use these patterns without fearing a lack of in-depth skills or effort available to acquire them.<br>
+<em>Location 1849</em></p>
+</blockquote>
+<ul>
+<li>A platform team uses strong collaboration with stream-aligned teams to understand their needs.</li>
+<li>A platform team relies on fast prototyping techniques and involves stream-aligned team members for fast feedback on what works and what does not.</li>
+<li>A platform team has a strong focus on usability and reliability for their services (treating the platform as a product), and regularly assesses if the services are still fit for purpose and usable.</li>
+<li>A platform team leads by example: using the services they provide internally (when applicable), partnering with stream-aligned teams and enabling teams, and consuming lower level platforms (owned by other platform teams) whenever possible.</li>
+<li>A platform team understands that adoption of internal new services, like new technologies, is not immediate, but instead evolves along an adoption curve.
+<em>Location 1858</em></li>
+</ul>
+<blockquote>
+<p>In a platform, the streams relate to services and products within the platform, which could be things like logging and monitoring services, APIs for creating test environments, facilities for querying resource usage, and so on.<br>
+<em>Location 1893</em></p>
+</blockquote>
+<blockquote>
+<p>From the viewpoint of the Dev teams, the platform is a single entity that provides them with a service that they simply consume via an API: However, inside the platform team there are several distinct teams (dealing with network, environments, metrics, etc.) that themselves collaborate with or provide a service to other platform teams.<br>
+<em>Location 1906</em></p>
+</blockquote>
+<blockquote>
+<p>we should aim for a thinnest viable platform (TVP) and avoid letting the platform dominate the discourse. This drive to “simplify the developer’s life” (as Conway puts it) 20 and reduce cognitive load (see Chapter 3) is an essential aspect of a good platform. A good test for DevEx is how easy it is to onboard a new Developer to the platform.<br>
+<em>Location 2007</em></p>
+</blockquote>
+<blockquote>
+<p><mark>ark>To help clarify the platform layers in use in your organization, draw the platform layers on a large diagram. This will help to explain to internal platform teams and to teams that use that platform exactly what the platform provides and what it depends on.</mark><br>
+<em>Location 2018</em></p>
+</blockquote>
+<blockquote>
+<p>The users will come to depend on the reliability of the platform and will need an understanding of when new features will appear and when old features will be retired. The platform, therefore, needs a roadmap curated by product-management practitioners, possibly co-created but at least influenced by the needs of users (Dev teams). Members of the platform teams will engage with customers (Dev teams and others) regularly to understand what they need. Feature usage is tracked with metrics and used to shape conversations about prioritization. A platform is not just a collection of features that Dev teams happened to ask for at specific points in the past, but a holistic, well-crafted, consistent thing that takes into account the direction of technology change in the industry as a whole and the changing needs of the organization.<br>
+<em>Location 2022</em></p>
+</blockquote>
+<blockquote>
+<p>The most effective pattern for an architecture team is as a part-time enabling team (if one is needed at all). The team being part-time is important: it emphasizes that many decisions should be taken by implementing teams rather than left to the architecture team. Some organizations compose a virtual team from members of other teams. This virtual team meets regularly to discuss and evolve the architecture aspects of the systems. This is akin to the chapter or guild terminology used by Spotify. The architecture team should support the other teams, helping them to be as effective as possible, rather than imposing designs or technology choices on other teams.<br>
+<em>Location 2114</em></p>
+</blockquote>
+<blockquote>
+<p>A crucial role of a part-time, architecture-focused enabling team is to discover effective APIs between teams and shape the team-to-team interactions with Conway’s law in mind.<br>
+<em>Location 2123</em></p>
+</blockquote>
+<p><strong>Chapter 6: Choose Team-First Boundaries</strong></p>
+<blockquote>
+<p><mark>We need to take into account their cognitive capacity, their location, and their interest in the new services.</mark><br>
+<em>Location 2168</em></p>
+</blockquote>
+<p><strong>Fracture Planes</strong>
+<em>Location 2255</em></p>
+<ul>
+<li>Business Domain Bounded Context</li>
+<li>Regulatory Compliance</li>
+<li>Change Cadence</li>
+<li>Team Location</li>
+<li>Risk</li>
+<li>Performance Isolation</li>
+<li>Technology
+* On splitting via technology types (i.e. front-end vs back-end): However, these common kinds of technology-driven splits typically introduce more constraints and reduce flow of work rather than improve it.</li>
+<li>User Personas</li>
+</ul>
+<blockquote>
+<p>The effort required to remove dependencies or coupling between features is compensated with a sharper focus on customers’ needs and experience using the system, which should result in higher customer satisfaction and improve the organization’s bottom<br>
+<em>Location 2338</em></p>
+</blockquote>
+<h3>Part III - Evolving Team Interactions for Innovation and Rapid Delivery</h3>
+<blockquote>
+<p>Part III, we deal with ways to evolve the organization design to provide powerful capabilities for innovation and rapid delivery in response to a quickly changing operating context.<br>
+<em>Location 312</em></p>
+</blockquote>
+<h4>Chapter 7: Team Interaction Modes</h4>
+<blockquote>
+<p><mark>When considering the relationship between any teams, a key decision is whether to collaborate with another team to achieve an objective or to treat the other team as providing a service</mark><br>
+<em>Location 2475</em></p>
+</blockquote>
+<p><strong>The Three Essential Team Interaction Modes</strong></p>
+<ul>
+<li>Collaboration: working closely together with another team</li>
+<li>X-as-a-Service: consuming or providing something with minimal collaboration</li>
+<li>Facilitating: helping (or being helped by) another team to clear impediments
+<em>Location 2493</em></li>
+</ul>
+<blockquote>
+<p>one team might use two different interaction modes for two different teams with which it works.<br>
+<em>Location 2496</em></p>
+</blockquote>
+<blockquote>
+<p><strong>Formalizing the ways in which teams should interact when building software systems helps to more easily assess the effectiveness of many aspects of software delivery by more explicitly defining interfaces between teams;</strong><br>
+<em>Location 2508</em></p>
+</blockquote>
+<blockquote>
+<p>Interaction modes should become team habits. By expecting and helping to achieve these kinds of team interactions, teams experience increased clarity of purpose, improved team engagement, and reduced frustration with other teams.<br>
+<em>Location 2513</em></p>
+</blockquote>
+<p><strong>Collaboration: Driver of Innovation and Rapid Discovery but Boundary Blurring</strong></p>
+<blockquote>
+<p>The collaboration team mode is suitable where a high degree of adaptability or discovery is needed, particularly when exploring new technologies or techniques.<br>
+<em>Location 2523</em></p>
+</blockquote>
+<p><strong>X-as-a-Service: Clear Responsibilities with Predictable Delivery but Needs Good Product Management</strong></p>
+<blockquote>
+<p>During later phases of systems development and periods where predictable delivery is needed (rather than discovery of new approaches), the X-as-a-Service model works best. By design, innovation across the boundary happens more slowly than with collaboration, precisely because X-as-a-Service has a nice, clean API that has defined the service well.<br>
+<em>Location 2570</em></p>
+</blockquote>
+<blockquote>
+<p>This means that for the X-as-a-Service model, there should be a high value gained from some teams being able to ignore low-level details of the service that they consume from another team, allowing them to move quickly without needing to be concerned with implementation details.<br>
+<em>Location 2590</em></p>
+</blockquote>
+<blockquote>
+<p>They must make the developer experience (DevEx) highly compelling. The service they provide should be straightforward to use, test, deploy, and/ or debug; and the documentation on how to use it should be clear, well-written, and up to date. Furthermore, the service they provide must be managed in a way that keeps it viable over time: requests for new features from consuming teams are considered but not built just because a team has asked for them.<br>
+<em>Location 2597</em></p>
+</blockquote>
+<blockquote>
+<p>Constraint: A team should expect to use the X-as-a-Service interaction with many other teams simultaneously, whether consuming or providing a service. Typical Uses: Stream-aligned teams and complicated-subsystem teams consuming Platform-as-a-Service from a platform team; stream-aligned teams and complicated-subsystem teams consuming a component or library as a service from a complicated-subsystem team.<br>
+<em>Location 2611</em></p>
+</blockquote>
+<p><strong>Facilitating: Sense and Reduce Gaps in Capabilities</strong></p>
+<blockquote>
+<p>The facilitating team interaction mode is suited to situations where one or more teams would benefit from the active help of another team facilitating (or coaching) some aspect of their work. The facilitating interaction mode is the main operating mode of an enabling team (see Chapter 5) and provides support and capabilities to many other teams, helping to enhance the productivity and effectiveness of these teams.<br>
+<em>Location 2617</em></p>
+</blockquote>
+<blockquote>
+<p>Expectations should be set with coworkers that the interaction modes and team structures will need to change at least a little as the organization “senses” whether the boundaries chosen are in fact the best boundaries.<br>
+<em>Location 2726</em></p>
+</blockquote>
+<blockquote>
+<p>Precisely due to the forces behind Conway’s law, the existing software architecture will initially “push back” against the new team structures.<br>
+<em>Location 2749</em></p>
+</blockquote>
+<blockquote>
+<p>To help make the new organizational structure work—and to sense whether the new responsibility boundaries are actually correct—the reverse Conway maneuver should be used with temporary but explicit collaboration modes between the teams building the software, along with one or more enabling teams (and possibly other teams) acting in a facilitating mode. By using temporary, explicit collaboration across the new boundaries and by using a high degree of facilitating for the stream-aligned and complicated-subsystem teams, any problems with the new responsibility boundaries can be quickly identified, giving the team the opportunity to adjust the design earlier, before too much has been built.<br>
+<em>Location 2750</em></p>
+</blockquote>
+<blockquote>
+<p>Teams that “logically” own a higher-level component may need to work on the lower layer (platform) for a period of time in order to split out that code, especially if they wrote the too-coupled code in the first place.<br>
+<em>Location 2758</em></p>
+</blockquote>
+<blockquote>
+<p>Choose Team Interaction Modes to Reduce Uncertainty and Enhance Flow. Use the Collaboration Mode to Discover Viable X-as-a-Service Interactions<br>
+<em>Location 2776</em></p>
+</blockquote>
+<h4>Chapter 8: Evolve Team Structures with Organizational Sensing</h4>
+<blockquote>
+<p>We need to design the design rules, not just the organization.</p>
+</blockquote>
+<blockquote>
+<p><mark>Collaboration is expensive. Unnecessary collaboration is particularly expensive, especially as it can mask or hide deficiencies in underlying platforms or capabilities. Any ongoing collaboration activity must, therefore, be justified as valuable discovery, valuable capability building, or valuable deficiency-filling activity.</mark><br>
+<em>Location 2844</em></p>
+</blockquote>
+<blockquote>
+<p>Organizations should aim to move from discovery activities to establish predictable delivery over time as new commodity services and platforms become available.<br>
+<em>Location 2978</em></p>
+</blockquote>
+<blockquote>
+<p>The organization must ask itself: “Are we trying to discover things? And how rapidly do we need to discover them?”<br>
+<em>Location 2982</em></p>
+</blockquote>
+<p><strong>Trigger: Software Has Grown Too Large for One Team Symptoms</strong></p>
+<ul>
+<li>A startup company grows beyond fifteen people (Dunbar’s number).</li>
+<li>Other teams spend lots of time waiting on a single team to undertake changes.</li>
+<li>Changes to certain components or workflows in the system routinely get assigned to the same people, even when they’re already busy or away.</li>
+<li>Team members complain about lack of system documentation.
+<em>Location 3043</em></li>
+</ul>
+<p><strong>Trigger: Delivery Cadence Is Becoming Slower Symptoms</strong></p>
+<ul>
+<li>Team members qualitatively feel it takes longer to release changes than it used to.</li>
+<li>Team velocity or throughput metrics show a clear downward variation compared to one year ago. (There is always some variation, so make sure it’s not accidental.)</li>
+<li>Team members complain that the delivery process used to be simpler, with fewer steps.
+<em>Location 3059</em></li>
+</ul>
+<p><strong>Trigger: Multiple Business Services Rely On a Large Set of Underlying Services Symptoms</strong></p>
+<ul>
+<li>Stream-aligned teams have limited visibility of end-to-end flow within their service area.</li>
+<li>It becomes difficult to achieve a smooth and rapid flow of change due to the number and complexity of subsystem integrations.</li>
+<li>Attempts to “reuse” an existing set of services and subsystems becomes more and more challenging.
+<em>Location 3077</em></li>
+</ul>
+<h4>How to Get Started with Team Topologies</h4>
+<ol>
+<li>Start with the Team First, as an organization ask yourself: What does the team need in order to:<ul>
+<li>Act and operate as an effective team?</li>
+<li>Own part of the software effectively?</li>
+<li>Focus on meeting the needs of users?</li>
+<li>Reduce unnecessary cognitive load?</li>
+<li>Consume and provide software and information to other teams?</li>
+</ul></li>
+<li>Identify Suitable Streams of Change
+Each organization needs to choose a set of change streams that act as “pipes” down which the most important changes flow. Exactly what is chosen for the streams depends on the nature of the organization, but some typical streams might be:
+<em> Citizen-oriented tasks for government online services: applying for a passport, paying taxes, or registering for a set of healthcare options (task-oriented streams).
+</em> Business banking products: online money management, automation of bank transactions, invoicing clients (role-oriented streams).
+<em> Online ticket purchasing: searching for tickets, purchasing tickets, managing “My Account” and refunds (activity streams).
+</em> Regional products: European market, North American market, Asian market, etc. (geographical streams).
+* Market segment: consumer, small and medium business, enterprise, large corporate (user-type streams).</li>
+<li>Identify a Thinnest Viable Platform (TVP)</li>
+<li>Identify Capability Gaps in Team Coaching, Mentoring, Service Management, and Documentation
+No serious sports team would consider not employing coaches and trainers, and no serious organization should be without coaches and trainers either.</li>
+<li>Share and Practice Different Interaction Modes and Explain Principles behind New Ways of Working
+Emphasize the humanistic aspects of Team Topologies: the focus on the team, the explicit limits on cognitive load, the reduction in noise and interruptions due to team-fist office space, and a limit on free-for-all communications.
+<em>Location 3315</em></li>
+</ol>
+]]></description>
+            <link>https://bromanko.com/posts/2020-04-12-book-notes-team-topologies</link>
+            <guid isPermaLink="true">https://bromanko.com/posts/2020-04-12-book-notes-team-topologies</guid>
+            <pubDate>Sun, 12 Apr 2020 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How I Work: Input Devices]]></title>
+            <description><![CDATA[<p>I struggled for some time with intense wrist pain. I suspected this was due to poor ergonomics while computing. Over the years I iterated through a variety of input devices (<a href="https://www.amazon.com/Microsoft-Ergonomic-Keyboard-Business-5KV-00001/dp/B00CYX26BC">Microsoft Sculpt</a>, <a href="https://www.amazon.com/dp/B00004L8IG?linkCode=osi&#x26;th=1">Trackman Marble Wheel</a>, <a href="https://www.apple.com/shop/product/MJ2R2LL/A/magic-trackpad-2-silver">Magic Trackpad</a>) with limited success. My current setup has finally alleviated my pain. I can use the computer for a full work day plus hobby project time — all pain-free. The key to my setup is an <a href="ergodox-ez.com/">Ergodox EZ</a> keyboard and a handful of software tricks.</p>
+<h2>Ergodox EZ Keyboard</h2>
+<p>The completely split layout is what drew me to the Ergodox. It allows for your hands to be shoulder width apart. It also allows you to rotate the halves to whatever angle is most comfortable for your wrists. The below photo has a slight counter-clockwise rotation. I find the most comfort rotating the two halves slightly inward toward each other.</p>
+<p><img src="/img/posts/2020-04-08-how-i-work/bromanko-setup.jpg" alt="bromanko&#x27;s desk setup"></p>
+<p>This keyboard was an intimidating purchase. First off, half the keycaps are blank. I thought I was a decent touch-typist but navigating a new keyboard without keycaps was daunting. More so the case when the key placement is novel. Also, there’s the price. It’s over $300 to take the dive. That’s a lot of money for an experiment. I wonder whether the high price gave me more motivation to learn. If the keyboard was $50 perhaps I would have given up after a few hours.</p>
+<p>Despite being motivated to use the Ergodox it took me three weeks to get productive. I remember bringing it to work the first day, plugging it in and suffering to type a single email. I lasted about 30 minutes before giving up. I resorted to using it only for hobby work in the evenings and weekends. At about three weeks I found myself stumbling over keys at work and realized I was competent enough to switch fully.</p>
+<h3>Ergodox Features</h3>
+<p>The Ergodox Firmware, <a href="https://ergodox-ez.com/pages/our-firmware">QMK</a>, is very powerful. I’ve always been a keyboard-centric computer user. I prefer to keep my hands on the home row and have tried to avoid using the mouse. With the Ergodox I’ve finally been able to ditch any mouse/trackpad peripheral. I can do everything from the keyboard. In addition, I’ve been able to introduce a variety of shortcuts to increase my productivity.</p>
+<p>Here’s <a href="https://configure.ergodox-ez.com/ergodox-ez/layouts/zlvM/latest/0">my Ergodox layout</a>. I’ll highlight a few of the biggest life-changers:</p>
+<h4>Layers</h4>
+<p>By holding a key, I can enable an overlay layer on the keymap. This is similar to how holding the shift key on a standard keyboard toggles keys to their uppercase equivalent. I’ve got three layers configured which allows me significantly more operations than the number of physical keys on the keyboard.</p>
+<p>My base layer is used for the typical keyboard keys. Things like letters, numbers and modifiers.</p>
+<p>My second layer is used to bring commonly typed special characters closer to my home row. Commonly used symbols (ex. <code>(</code>, <code>)</code>, <code>$</code>, <code>#</code>) are two rows lower than the number row.</p>
+<p>My third layer is used for mouse and browser control. I can toggle this layer and use the <code>e</code>, <code>s</code>, <code>d</code>, <code>f</code> keys to move my mouse cursor. Thumb keys are used for clicking and manipulating the “scroll wheel.” While it’s not as precise as a mouse, it is more convenient and ergonomic. This is the critical feature that let me ditch my pointing device altogether.</p>
+<h4>Modifier Keys</h4>
+<p>Another feature is the ability to create momentary modifier keys. This allows the behavior of a key to change when it’s pressed versus when it is held. I’ve created several modifiers to allow for easy access to the <code>CTRL</code> and <code>ESC</code> keys.</p>
+<ul>
+<li>Hold my <code>z</code> or <code>/</code> key to trigger <code>CTRL</code></li>
+<li>Tap the typical <code>Caps Lock</code> key to send an <code>ESC</code></li>
+<li>Press a thumb key on Layer 2 to open the macOS character picker for easy access to emoji</li>
+<li>Press a thumb key on Layer 2 to send the screenshot chord to take screenshots without awkward contortions</li>
+</ul>
+<h3>Ergodox Learnings</h3>
+<p>I learned a few things in the course of using the Ergodox.</p>
+<p>I didn’t realize how often I was opting to hold a modifier key and press a second key on the same half of the keyboard. This is not comfortable. You should be opting to hold a modifier key with one hand and typing a second key with the other. The comfort increase is noticeable but it’s been a difficult habit to break. Some folks go so far as to disable the ability to do this via Karabiner. I haven’t gone to that length but have become more mindful of the habit and look to create a parity of modifiers on either side of the keyboard.</p>
+<p>I wish I had ordered the backlit version of the keyboard. Not because I do much typing in the dark. Rather, I would like a more obvious indication when a layer is activated. The non-backlit version has a single LED to indicate the activation of a layer. This is helpful but hard to catch out of the corner of your eye. If the entire keyboard was glowing a different color it would be immediately obvious if I accidentally toggled a layer.</p>
+<h2>Software Enabling my Keyboard-Only World</h2>
+<p>The Ergodox alone isn’t the only thing I’ve done to go mouse-free. Several tools have become indispensable.</p>
+<h4>macOS Configuration</h4>
+<p>The starting point for me was tweaking some settings in macOS for greater productivity.</p>
+<ul>
+<li>In Keyboard settings, enable “Use keyboard navigation to move focus between controls”. This allows tabbing through UI elements in dialogs and other screens.</li>
+<li>In Accessibility settings, enable “Reduce Motion”. This switches to lighter weight animations which run slightly faster than the defaults. I wish there was a way to speed the transitions up further but haven’t found anything.</li>
+</ul>
+<h4>Alfred</h4>
+<p><a href="https://www.alfredapp.com/">Alfred</a> is such a great utility. It’s like Google’s Omnibar for your entire OS. I’ve got a global hotkey of <code>Hyper</code>+<code>Space</code> configured to open it. From Alfred I can type all sorts of commands to facilitate common interactions. Some of my favorites include:</p>
+<ul>
+<li>Type the first few letters of an application name to open it or bring it to the foreground.</li>
+<li>Type mathematical expressions to quickly compute values.</li>
+<li>Type keywords to perform actions like muting volume, locking the screen, or emptying the trash.</li>
+</ul>
+<h3>Karabiner Elements</h3>
+<p><a href="https://karabiner-elements.pqrs.org/">Karabiner Elements</a> is a utility to customize keyboard commands on your computer. I’m not a Karabiner power user by any means. However, there are two customizations that I can no longer live without.</p>
+<p>I’ve reconfigured my <code>Caps Lock</code> key to act as a Hyper key. If you haven’t heard of a Hyper key, it’s a key that emits the combination of <code>CTRL</code> + <code>Shift</code> + <code>⌘</code> + <code>⌥</code>. This is a combination of characters so difficult to type that it’s unlikely to conflict with other shortcuts. It enables <code>Hyper</code>+x shortcuts. The <a href="https://stevelosh.com/blog/2012/10/a-modern-space-cadet/">A Modern Space Cadet</a> article is the source of inspiration for this technique.</p>
+<p>The Ergodox is capable of performing this Hyper remapping. I do it in Karabiner because I want consistent behavior from my Macbook keyboard. I haven’t notice any downside in doing this via Karabiner vs native on the Ergodox.</p>
+<p>With Hyper enabled, I have now created a series of Application shortcut keys which can be triggered via <code>Hyper</code>+key. For instance, pressing <code>Hyper</code>+<code>U</code> will switch to Firefox. <code>Hyper</code>+<code>J</code> will switch to my terminal. This is significantly faster than using <code>⌘</code>+<code>TAB</code> to navigate between applications.</p>
+<h4>Moom</h4>
+<p>I like to focus on one application at a time. This restricts the number of things that can pull my attention away from the task at hand. I needed a quick way to expand the size of an application’s window to cover the entire screen. macOS does provide Full Screen support, however it forces the window to run in a separate space. Navigating between spaces has an animated transition which extends the amount of time it takes for the next app to appear. I want that transition to be unnoticeable.</p>
+<p><a href="https://manytricks.com/moom/">Moom</a> is a window manager that provides keyboard shortcuts for common window sizes. I can trigger Moom for the active window with <code>Hyper</code>+<code>Up</code>. Then I can press <code>Space</code> to make the window take the full screen, or an arrow key to take half of the screen snapped to the edge indicated by the arrow. This is useful for cases where I’m referring to material in one window and taking notes in the other. Right now I have Firefox filling the left half of my screen and Bear on the right.</p>
+<h4>Vimium</h4>
+<p>Unfortunately, web browsing is difficult to do via keyboard. Tabbing through hundreds of UI elements is exhausting. Using a keyboard-driven mouse is also annoying. <a href="https://addons.mozilla.org/en-US/firefox/addon/vimium-ff/">Vimium</a> has proven to be the accessibility tool that makes using a browser via keyboard possible. It is a browser extension that provides Vim style keyboard control to your browser. You can</p>
+<ul>
+<li>Scroll the page contents using <code>j</code> and <code>k</code></li>
+<li>Switch tabs with <code>J</code> and <code>K</code></li>
+<li>Navigate back and forward with <code>H</code> and <code>L</code></li>
+<li>Press the <code>f</code> key to trigger keyboard shortcuts for all in-view clickable elements.</li>
+</ul>
+<p>That last point is a game changer.</p>
+<p><img src="/img/posts/2020-04-08-how-i-work/vimium.png" alt="Vimium in action"></p>
+<p>I can click on any element on the page by pressing <code>f</code> and then pressing the series of keys in the yellow overlay corresponding to the link I am interested in. This makes pretty much any UI element keyboard accessible with only a handful of keypresses. Folks that have used <a href="https://github.com/easymotion/vim-easymotion">Vim’s EasyMotion</a> project will find it immediately recognizable.</p>
+<hr>
+<p>I continually tweak this setup and predict this post won't
+reflect reality a year from now. Sounds like most of technology.</p>
+]]></description>
+            <link>https://bromanko.com/posts/2020-04-08-how-i-work</link>
+            <guid isPermaLink="true">https://bromanko.com/posts/2020-04-08-how-i-work</guid>
+            <pubDate>Wed, 08 Apr 2020 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[dot-slash-go: Simple Project ./go Scripts]]></title>
+            <description><![CDATA[<p>I 💛 ./go scripts.</p>
+<p>If you aren’t familiar with them, give Pete Hodgson’s overview posts (<a href="https://www.thoughtworks.com/insights/blog/praise-go-script-part-i">1</a>, <a href="https://www.thoughtworks.com/insights/blog/praise-go-script-part-ii">2</a>) a read.</p>
+<p>I make it a point to include ./go scripts in every project I work on. A ./go script will significantly increase new developer productivity. Any open source project looking to lower their barrier of entry should adopt one.</p>
+<p>Since I value them so much, I created <a href="https://github.com/bromanko/dot-slash-go"><code>dot-slash-go</code></a>, an extendible, friendly framework for project ./go scripts. It enables you to create a better developer experience with less effort.</p>
+<h3>Inspiration</h3>
+<p>./go scripts tend toward a general implementation. They define a set of commands as functions. Passing no arguments displays help output enumerating the commands and their usage. This boilerplate is tedious to create for every new repository.</p>
+<p>The ./go script user experience is important. Working with multiple teams I’ve encountered a variety of usability. Some teams do an excellent job outputting helpful command usage information. Others stop at surfacing the command and leave you guessing at what they do or what arguments are supported.</p>
+<p>I created <a href="https://github.com/bromanko/dot-slash-go"><code>dot-slash-go</code></a> to eliminate the boilerplate and encourage improved usability. Creating and documenting commands is so simple you’ve got no excuse to skip it!</p>
+<h3>Installation</h3>
+<p>Installation is a breeze. Navigate to your project root and run the following command:</p>
+<pre><code class="language-bash">bash -c "$(curl -sS https://raw.githubusercontent.com/bromanko/dot-slash-go/master/install)"
+</code></pre>
+<p>A guided process will ask you a series of questions to create a <code>./go</code> shell script and a <code>.go</code> folder to store metadata and commands.</p>
+<p><img src="/img/posts/2017-10-25-dot-slash-go-simple-project-go-scripts/installing-dot-slash-go.png" alt="Installing dot-slash-go">
+<em>Installing dot-slash-go</em></p>
+<p>Re-running the install script is safe. It will update <code>./go</code> to the latest version and will not delete any of your customizations.</p>
+<h3>Creating Commands</h3>
+<p>Creating new commands is also simple. Just use the included command command.</p>
+<p><img src="/img/posts/2017-10-25-dot-slash-go-simple-project-go-scripts/creating-commands.png" alt="Creating Commands">
+<em>Creating a dot-slash-go command</em></p>
+<p>The new build command, contextual help and usage information can be modified by editing <code>build</code>, <code>build.help</code> and <code>build.usage</code>. 🎉</p>
+<hr>
+<p>Give <a href="https://github.com/bromanko/dot-slash-go"><code>dot-slash-go</code></a> a shot. Let me know what you think, open an issue, or improve it via a pull-request. Enjoy!</p>
+]]></description>
+            <link>https://bromanko.com/posts/2017-10-25-dot-slash-go-simple-project-go-scripts</link>
+            <guid isPermaLink="true">https://bromanko.com/posts/2017-10-25-dot-slash-go-simple-project-go-scripts</guid>
+            <pubDate>Wed, 25 Oct 2017 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rediscovering .NET]]></title>
+            <description><![CDATA[<p>With the recent release of Visual Studio for Mac and Jetbrains Rider I’ve gotten the itch to explore the current state of the .NET ecosystem. Microsoft has made some bold strides in cross-platform compatibility and I was curious about the development experience.</p>
+<p>I was a .NET developer from the betas of Framework v1 to .NET 4. At that point I transitioned to MacOS (at the time OSX) and a variety of non-Microsoft languages and platforms. The switch broadened my horizons while simultaneously making me really appreciate Microsoft’s efforts.</p>
+<p>After nearly 10 years away from .NET I decided to create a small project and take some notes of my experience. I’m sure this post will be out of date rapidly.</p>
+<h3>Initial Decisions</h3>
+<ul>
+<li>I selected C# as my language since I’ve got the most experience with it. F# was calling but it was a distraction best saved for a later adventure.</li>
+<li>As a strongly-typed, compiled language a capable IDE is imperative. Jetbrains won my heart with Resharper so I opted to use Rider rather than Visual Studio for Mac or VS Code.</li>
+<li>Local development would be done via Docker containers. I’ve stopped installing development frameworks directly on my local machine. Instead I prefer Docker Compose and shell scripts for automating my local development experience. I take comfort in the ability to quickly get developing whenever I switch machines.</li>
+</ul>
+<h3>Solution Files</h3>
+<p>This seems to be a transition time with .NET Core. When I last worked with .NET you managed your code with Solution files (<code>.sln</code>) and Project files (<code>.csproj</code>). When I created a new project in Rider it produced both a <code>project.json</code> file and <code>.sln/xproj</code> files. The .NET Core documentation all revolves around <code>global.json</code> and <code>project.json</code>. So, I deleted the <code>.sln</code> and <code>.xproj</code> files. This made Rider very unhappy.</p>
+<p>It turns out that Rider requires the <code>.sln</code> and <code>.xproj</code> files. It’s confusing to have two sets of files that appear to have the same purpose. Upon further research, I learned that <a href="https://blogs.msdn.microsoft.com/webdev/2016/05/11/notes-from-the-asp-net-community-standup-may-10-2016/"><code>project.json</code> is being phased out completely</a>. So the world is shifting back to MSBuild and <code>csproj</code> files. That’s fairly disheartening as I remember a lot of pain with merge conflicts and GUID wrangling in Project files. I hope the improvements they are making reduce the old pains.</p>
+<p>Until Rider adds <a href="https://youtrack.jetbrains.com/issue/RIDER-3777">support for csproj files</a> I’m stuck with both.</p>
+<h3>Unit Testing</h3>
+<p>XUnit appears to be the preferred unit testing framework. That’s great since it’s what I was last using.
+The <code>dotnet test</code> command works well enough. You can use glob patterns to run tests across multiple projects
+or assemblies: <code>dotnet test test/**</code></p>
+<p>Rider’s test runner also works well. It’s capable of both executing and debugging single tests or full suites.
+I can’t find a way to do file system watching and have it re-execute tests on save. Which brings me to the next point…</p>
+<h3>File System Watching</h3>
+<p>The .NET Tools include a <code>watch</code> command to listen for file system changes and re-run your tests or re-build your app.
+Unfortunately, the command is limited to a single project at a time. If you break your solution up into multiple
+projects you can’t issue a single command to watch for changes in all of the tests or source files.</p>
+<p>I asked about this in the <a href="https://github.com/aspnet/DotNetTools/issues/247">.NET Tools repo</a>. The recommendation was
+to use MSBuild rather than <code>dotnet test</code>. That’s good advice considering the switch back to MSBuild. However,
+ider’s lack of support means that I can’t yet take advantage.</p>
+<h3>Package Management</h3>
+<p>NuGet was in its infancy when I left the .NET world. My how things have changed. It now has a robust ecosystem of packages. It’s especially great to see Microsoft publishing their assemblies via NuGet.</p>
+<p>I was thrown off by the package installation process. My expectation was that packages would default to a project-local
+install rather than globally in <code>$HOME</code>. I attempted to force packages to install locally but the best I could do
+was one local packages folder per project. This duplicates a lot of packages and is hard to manage with Docker volumes.
+There are several open issues related to this. I scrapped this approach and am installing globally. I can’t help but
+wonder if this will cause pain in the future.</p>
+<p>I was also thrown off by <code>dotnet restore</code> vs using NuGet manually. I probably shouldn’t have installed the NuGet
+binary on my machine. I’ve removed it and only use the <code>dotnet</code> CLI.</p>
+<p>I’m surprised that there is no command line to add the latest version of a package to your project.
+Something equivalent to <code>npm install --save</code> or <code>yarn add</code>. My process involves finding the package on
+nuget.org and then hand-editing <code>project.json</code>. Awkward.</p>
+<h3>Linting</h3>
+<p>It looks like the current state of things is to use <a href="https://github.com/DotNetAnalyzers/StyleCopAnalyzers/blob/master/documentation/DotNetCli.md">StyleCop Analyzers</a>.
+However the wiki page doesn’t leave me particularly excited.
+Coala has <a href="https://github.com/coala/coala-bears/blob/master/bears/c_languages/CSharpLintBear.py">CSharpLintBear</a>
+which uses mcs. I could try out Coala (but Python 3…) or running mcs myself.
+More work than I’m willing to invest right now.</p>
+<h3>Docker</h3>
+<p>Getting everything running in Docker was very easy. I was pleasantly surprised. I could even easily mount packages in a volume container like I would do with NodeJS modules.</p>
+<p><strong>docker-compose.yaml</strong></p>
+<pre><code class="language-yaml">version: "2"
+services:
+  dev:
+    build:
+      dockerfile: Dockerfile.dev
+      context: .
+    volumes:
+      - .:/app
+      - packages:/root/.nuget/packages
+    environment:
+      - ASPNETCORE_URLS=http://+:5000
+    ports:
+      - 5000:5000
+
+volumes:
+  packages:
+</code></pre>
+<p><strong>Dockerfile.dev</strong></p>
+<pre><code class="language-dockerfile">FROM microsoft/dotnet:1.1.0-sdk-projectjson
+
+WORKDIR /app
+
+ADD docker/dev-entrypoint.sh /usr/bin/entrypoint
+
+ENTRYPOINT ["/usr/bin/entrypoint"]
+CMD ["bash"]
+</code></pre>
+<p><strong>dev-entrypoint.sh</strong></p>
+<pre><code class="language-bash">#!/bin/bash
+
+set -e
+
+cd /app
+
+dotnet restore
+
+exec "$@"
+</code></pre>
+<h3>Frameworks</h3>
+<p>I was interested in both <a href="https://github.com/akkadotnet/akka.net">Akka.Net</a> and <a href="https://github.com/dotnet/orleans">Orleans</a>.
+Neither of them support .NET Core yet. 😔 Akka.Net has a branch for .NET Core, though. That’s a promising sign.
+Both projects also have Github issues listing the TODO items necessary for support. I’ve signed up for notifications on each of them.</p>
+<h3>Current Conclusion</h3>
+<p>I am optimistic about the future of .NET Core and non-Windows .NET development. These are definitely the very early days. There are some big changes looming that will cause quite a bit of churn to projects. I expect that things will feel more settled in 6–12 months.</p>
+<p>Compared to frameworks in use with Ruby, Python and Node.js I find .NET’s patterns and practices to be more mature and consistent. Every non-functional concern I reviewed (ex. logging, monitoring, authorization) was well-considered and robust.</p>
+<p>Overall 👍🏾</p>
+]]></description>
+            <link>https://bromanko.com/posts/2017-01-09-rediscovering-net</link>
+            <guid isPermaLink="true">https://bromanko.com/posts/2017-01-09-rediscovering-net</guid>
+            <pubDate>Sat, 09 Jan 2016 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Secure Access Tokens with AWS and Single Sign-On]]></title>
+            <description><![CDATA[<p>At <a href="https://meetearnest.com/">Earnest</a>, we’re big fans of single sign-on (SSO). SSO is great because it
+provides a single set of authentication credentials to access multiple services. Administrators can easily assign (and take away) access to services and enhance security by requiring multi factor authentication challenges for services that don’t have such. If it’s a service someone at Earnest uses, we want it covered via SSO.</p>
+<p>We’re also avid users of Amazon Web Services. AWS provides a SAML 2.0 identity system that ties in nicely with our SSO needs. It works as expected for the web console — allowing our team to log in directly from their SSO dashboard without a second set of credentials.</p>
+<p>However, folks on our team often find themselves needing to do more than just access AWS via the web console. Tools like the AWS CLI, Terraform or our own applications need to authenticate as well. Traditional IAM Users have the ability to generate access tokens for these purposes. Unfortunately, SAML-based SSO logins are done via Roles — and you can’t generate access tokens for a Role.</p>
+<p>We found ourselves with a question. How can we combine the benefits of SAML-based SSO with the need for
+access tokens? Amazon’s answer is the <a href="http://docs.aws.amazon.com/STS/latest/APIReference/Welcome.html">AWS Security Token Service</a>.</p>
+<p>The Security Token Service allows you to authenticate via a SAML provider and request a short-lived access token that can be used wherever you might typically use an IAM access token. The security benefits here are great.</p>
+<ul>
+<li>STS tokens are only valid for a maximum of one hour. This reduces surface area in cases where a key is compromised.</li>
+<li>Authentication and authorization are performed using your SAML identity provider and provisioned roles. You get all the same provisioning/de-provisioning benefits.</li>
+<li>Support for multi-factor authentication challenges.</li>
+</ul>
+<p>All we needed to do was integrate our SAML-based SSO provider (Okta) with the AWS API.
+Amazon provides a <a href="http://blogs.aws.amazon.com/security/post/Tx1LDN0UBGJJ26Q/How-to-Implement-Federated-API-and-CLI-Access-Using-SAML-2-0-and-AD-FS">few</a>
+<a href="http://blogs.aws.amazon.com/security/post/TxU0AVUS9J00FP/How-to-Implement-a-General-Solution-for-Federated-API-CLI-Access-Using-SAML-2-0">examples</a> of
+this online, but do to technical challenges neither worked properly with Okta. So, we expanded the general idea to
+support Okta (with multi-factor authentication via TOTP).</p>
+<p>The result is a user-friendly CLI for authenticating, generating an STS access token, and updating your local environment within seconds. It’s a big security enabler.</p>
+<p><img src="/img/posts/2016-01-06-secure-access-tokens-with-aws-and-single-sign-on/aws-sts-generation.gif" alt="Generating AWS STS tokens via Okta SSO">
+<em>Generating AWS STS tokens via Okta SSO</em></p>
+<h3>How it Works</h3>
+<p>The process of authenticating with Okta (and many SAML SSO providers) is only possible via form-based authentication. We’re using headless browser automation
+(via the excellent <a href="http://www.nightmarejs.org/">Nightmare</a>) to emulate a form-based sign-on.</p>
+<ol>
+<li>Prompt user for SSO-provider username and password</li>
+<li>Use a headless browser to navigate to the login page and submit the credentials</li>
+<li>Prompt for a TOTP token</li>
+<li>Use the headless browser to submit the TOTP token</li>
+<li>Parse the response from Amazon to extract the SAML assertion</li>
+<li>Present accessible roles to the user (if more than one) and allow them to select the role to assume</li>
+<li>Use the STS API to <a href="http://docs.aws.amazon.com/cli/latest/reference/sts/assume-role-with-saml.html%29">assume the role</a></li>
+<li>Save the token information to the <a href="https://blogs.aws.amazon.com/security/post/Tx3D6U6WSFGOK2H/A-New-and-Standardized-Way-to-Manage-Credentials-in-the-AWS-SDKs">AWS credentials file</a></li>
+</ol>
+<p>We’ve open sourced our <a href="https://github.com/meetearnest/aws-sts/">token generator</a>. It supports assuming an AWS role and will automatically update your AWS credentials file with the new credentials. If even assumes roles across multiple AWS accounts if this is something your organization does.</p>
+<p>At the moment, authentication is only implemented for Okta. But, adding support for other SSO providers should be
+straightforward. Please <a href="https://github.com/meetearnest/aws-sts/pulls">submit a pull request</a> if you add support for your own.</p>
+]]></description>
+            <link>https://bromanko.com/posts/2016-01-06-secure-access-tokens-with-aws-and-single-sign-on</link>
+            <guid isPermaLink="true">https://bromanko.com/posts/2016-01-06-secure-access-tokens-with-aws-and-single-sign-on</guid>
+            <pubDate>Wed, 06 Jan 2016 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How Earnest Engineers Make Decisions]]></title>
+            <description><![CDATA[<p><em>I just rewrote our interest rate calculator. It distributes calculations across a cluster of servers. The codebase is 10 times larger but it’s sooo fast! Could I get a code review? — Scotty</em></p>
+<p>This is a fictitious email out of my bad dreams. (Yes, I dream of emails. I prefer that to dreams about debugging.) It’s not that I don’t love performance improvements or distributed systems — both are important and have their place.</p>
+<p>But in my dream Scotty created a complex new system that will be harder to reason with and learn. I wish he hadn’t spent time on it. Good for me that this is just an example, and Scotty didn’t actually build anything like this. That’s because Scotty, and every engineer at Earnest, have a shared understanding of how we make pragmatic decisions.</p>
+<p>Software engineers are inundated with decisions at every step of the product development process. When we were a small team I could participate in all of the important ones. Unfortunately, I don’t scale particularly well (horizontally or vertically).</p>
+<p>As the engineering team has grown from 10 to 30 members, I’ve looked for ways to enable autonomous decision making that leads to investing our time and energy in the right things.</p>
+<p>We’ve developed a simple framework for investment decisions based on a memorable acronym: PASSMADE. It’s a term popularized by Microsoft for their Solutions Developer certification, and is a checklist of architectural concerns to consider when building software. It’s a helpful reminder of the important non-functional concerns that must be considered in software development.</p>
+<p>PASSMADE stands for:</p>
+<p><strong>P</strong>erformance</p>
+<p><strong>A</strong>vailability</p>
+<p><strong>S</strong>ecurity</p>
+<p><strong>S</strong>calability</p>
+<p><strong>M</strong>aintainability</p>
+<p><strong>A</strong>ccessibility</p>
+<p><strong>D</strong>eployability</p>
+<p><strong>E</strong>xtensibility</p>
+<p>With unlimited resources, we’d invest equally — and heavily — in all of these. In the real world, we make tradeoffs. At Earnest, three principles are more important than the others: Security, Maintainability and Availability. We don’t avoid the other concerns. Having performant systems and accessible products is important. We merely prioritize these principles when making decisions. Here’s why:</p>
+<p><strong>Security</strong>: Earnest is a financial technology company using tremendous amounts of data to evaluate our clients’ financial responsibility. The privacy and security of this data is of critical importance. The lifetime relationship with our clients is built upon the trust that we will keep their data safe.</p>
+<p><strong>Maintainability</strong>: We’re building a company intended to last generations. With a time horizon that long there will be plenty of changes to our software, services and products. The flexibility to adapt to these changes is a competitive advantage enabling our long term success.</p>
+<p><strong>Availability</strong>: We’re a technology company and it’s 2015. We don’t keep banker’s hours. Our clients expect 24/7 access to services and a feature set that enables them to self-serve.</p>
+<p>By selecting and communicating which specific principles are most important we enable everyone on the team to make similar pragmatic decisions.</p>
+<p>That means when Connie, for example, is discussing next week’s work with her team they will decide what projects to tackle based on this framework. Should they invest in a better image compression system to make our pages load faster? Or, should they simplify the page build process to have less moving parts? Our investment preference for maintainability over performance makes the path clearer.</p>
+<p>Prioritizing our architectural concerns has been a positive enabler for our team. The framework is embedded within our software design process allowing us to scale consistent decision making while tripling the size of the team. Unfortunately, there is one decision PASSMADE can’t help make for you.
+You’re on your own with <a href="http://martinfowler.com/bliki/TwoHardThings.html">naming things</a>.</p>
+<p>If you also like secure, maintainable and available software — or distributed interest rate calculators — <a href="https://www.meetearnest.com/careers/#/overview">give us a look</a>, we’re hiring.</p>
+<hr>
+<p><strong>New to Earnest?</strong> Earnest is a technology company using cutting-edge data science, smarter design, and software automation to rebuild financial services. Founded on the belief that financially responsible people deserve better options and access to credit, Earnest’s lending products are built for a new generation seeking to reach life’s milestones. Using a unique data-driven underwriting process, Earnest understands every applicant’s full financial story to offer the lowest possible rates and radically flexible loan options for living life.</p>
+]]></description>
+            <link>https://bromanko.com/posts/2015-09-25-how-earnest-engineers-make-decisions</link>
+            <guid isPermaLink="true">https://bromanko.com/posts/2015-09-25-how-earnest-engineers-make-decisions</guid>
+            <pubDate>Fri, 25 Sep 2015 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Meeting Earnest]]></title>
+            <description><![CDATA[<p>One of the most difficult things about choosing where you work is getting a complete
+picture of what it‘s <em>really</em> like there. What are the people like? What are their values? What are the types of challenges they get to work on day to day? There’s only so much that a career page and job description can expose. In the past, I’ve learned the most about companies from talking to the people that work there.</p>
+<p>If you’ve ever been curious about <a href="https://www.meetearnest.com/">Earnest</a> — especially the Data or Engineering teams — you’ve now got an ongoing chance to learn more by talking to me. You may already know that we’re building a next-generation bank leveraging technology and data sciences. Now you can get answers to all of your other questions.</p>
+<p>Starting this Wednesday, (March 18, 2015) every week I’ll be working from a different San Francisco coffee shop from 8am until 10am. The complete schedule is:</p>
+<ul>
+<li><em>Wednesday March 18, 2015 8am — 10am</em>: <a href="http://www.specialtys.com/Location.aspx?Store=SF03">Specialty’s at 1 Post Street</a> right next to Montgomery station</li>
+<li><em>Thursday March 26, 2015 8am — 10am</em>: <a href="http://www.yelp.com/biz/the-creamery-san-francisco-3">The Creamery</a> in SOMA</li>
+<li><em>Tuesday March 31, 2015 8am — 10am</em>: <a href="https://www.google.com/maps/place/Starbucks/@37.762882,-122.410483,15z/data=!4m2!3m1!1s0x0:0xf9def5f43897ba31">Starbucks</a> at Bryant and Mariposa in Mission/Potrero</li>
+<li><em>Thursday April 9, 2015 8am — 10am</em>: <a href="http://www.yelp.com/biz/the-creamery-san-francisco-3">The Creamery</a> in SOMA</li>
+</ul>
+<p>If you’d like to stop by and chat about anything — from engineering practices at Earnest to how we think about using data to model risk feel free to stop by. It’s a no-pressure, no-sales environment where I’d be happy to answer any questions you have and give you a sense for what we’re all about.</p>
+<p>You can find out exactly where I’ll be by checking the Earnest <a href="https://twitter.com/meetearnest">Twitter</a> account.
+(Or you can <a href="https://twitter.com/bromanko">message me</a> directly.) We’ll get the information out a few days in advance.</p>
+<p>I hope you’ll stop by and say hello.</p>
+]]></description>
+            <link>https://bromanko.com/posts/2015-03-10-meeting-earnest</link>
+            <guid isPermaLink="true">https://bromanko.com/posts/2015-03-10-meeting-earnest</guid>
+            <pubDate>Tue, 10 Mar 2015 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Using Docker to Test Production SSL Certificates]]></title>
+            <description><![CDATA[<p>Whenever I get a shiny new SSL certificate for a production hostname I can’t help but feel some anxiety. Does the certificate have the proper intermediate chain? Does the private key match the certificate? Are the SANs correct?</p>
+<p>With Google’s <a href="https://konklone.com/post/why-google-is-hurrying-the-web-to-kill-sha-1">deprecation of SHA1 certificates</a> I have several services that need to have certificates re-issued and replaced. This felt like a good time to setup a small process I could use to test these certificates prior to putting them on production.</p>
+<p>First, I created a simple testing ground for my certificates and apps.
+A root folder containing <code>sites-enabled</code> and <code>certs</code> subfolders.</p>
+<p>Next I placed my certificate chain files and private keys in the <code>certs</code> folder.
+In the <code>sites-enabled</code> folder I configured SSL servers for each of the certificates I was trying to test.</p>
+<p>Here’s an example that runs http and https listeners and redirects all traffic to the https server.</p>
+<pre><code>server {
+ listen 80;
+ server_name bromanko.com www.bromanko.com;
+
+ location / {
+   rewrite ^ https://www.bromanko.com$request_uri? permanent;
+ }
+}
+
+server {
+ listen 443;
+ server_name bromanko.com www.bromanko.com;
+
+ ssl on;
+ ssl_certificate /etc/nginx/certs/www.bromanko.com.crt;
+ ssl_certificate_key /etc/nginx/certs/www.bromanko.com.key;
+ ssl_client_certificate /etc/nginx/certs/www.bromanko.com.ca;
+}
+</code></pre>
+<p>With this configuration in place, I pulled down an nginx docker image.</p>
+<pre><code class="language-bash">docker pull dockerfile/nginx
+</code></pre>
+<p>Now I was ready to spawn a docker container referring to the configuration files:</p>
+<pre><code class="language-bash">docker run -i -t —rm -p 80:80 -p 443:443 -v /Users/brian/projects/ssl-test/site-enabled/:/etc/nginx/sites-enabled -v /Users/brian/projects/ssl-test/certs/:/etc/nginx/certs dockerfile/nginx nginx
+</code></pre>
+<p>The final piece is to test that the new certificate is working.
+The easiest solution was to edit my hosts file to resolve <code>www.bromanko.com</code>
+and <code>bromanko.com</code> to the running container.
+Since I’m on OSX, this will be the IP of my boot2docker VM.</p>
+<pre><code>##
+# Host Database
+#
+# localhost is used to configure the loopback interface
+# when the system is booting. Do not change this entry.
+##
+127.0.0.1 localhost
+255.255.255.255 broadcasthost
+::1 localhost
+fe80::1%lo0 localhost
+192.168.59.103 boot2docker
+192.168.59.103 www.bromanko.com
+192.168.59.103 bromanko.com
+</code></pre>
+<p>Opening a browser and pointing to <code>http://bromanko.com</code> will now resolve to
+my boot2docker VM which maps ports 80 and 443 to the running nginx container
+with the new certificates in place. I can confirm that the certificate chains are correct, the SANs are working properly all prior to deploying these certificates on production. Peace of mind acquired.</p>
+]]></description>
+            <link>https://bromanko.com/posts/2014-09-24-using-docker-to-test-production-ssl-certificates</link>
+            <guid isPermaLink="true">https://bromanko.com/posts/2014-09-24-using-docker-to-test-production-ssl-certificates</guid>
+            <pubDate>Wed, 24 Sep 2014 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Elegant Node.js Web Services: Pipelines]]></title>
+            <description><![CDATA[<h3>Node.js Web Service Functionality</h3>
+<p>Out of the box, both <a href="http://mcavage.me/node-restify/">Restify</a> and <a href="http://expressjs.com/">Express</a> treat HTTP request/response calls similarly. They create the purest JavaScript representation of their underlying HTTP counterparts. A request comes in, one or more JavaScript functions execute and a response is send to the client.</p>
+<p>A well architected Node.js web service/app needs to execute a host of functionality on each request:</p>
+<ul>
+<li>
+<p><strong>Request Validation</strong><br>
+Ensure the request conforms to the contract specified by your server. Examples include Accept header parsing, CORS/JSONP validation, or throttling.</p>
+</li>
+<li>
+<p><strong>Logging</strong><br>
+Attach logging capability to a request and emit request information to attached loggers.</p>
+</li>
+<li>
+<p><strong>Request Transformation</strong><br>
+Clean up a web request and convert raw objects to something more usable later in the pipeline. Examples include query string and body body parsing.</p>
+</li>
+<li>
+<p><strong>Authentication</strong><br>
+Read request authentication information and match the data against an authentication data store. Accept or reject credentials.</p>
+</li>
+<li>
+<p><strong>Authorization</strong><br>
+Verify that the authenticated user (or lack thereof) is allowed to access the resource requested.</p>
+</li>
+<li>
+<p><strong>Business Logic</strong><br>
+Perform the functionality required by the specific request. Examples include reading information from a data store or performing an operation.</p>
+</li>
+<li>
+<p><strong>Responding</strong><br>
+Packaging appropriate data and transforming it into an acceptable format that conforms the the contract specified by your server (xml, json, csv).</p>
+</li>
+<li>
+<p><strong>Auditing</strong><br>
+Logging response information and performing any post-request hooks. This is also a great place to apply developer safeguard behavior in non-production environments.</p>
+</li>
+</ul>
+<p>That’s a lot of functionality! However, breaking each behavior down into a function and executing them as a pipeline leads to an elegant separation of concerns. <em>(I’ve had the misfortune of working on a codebase where these features were repeated in each method call. That was a maintenance nightmare.)</em></p>
+<hr>
+<h3>An Example</h3>
+<p>Here’s a walkthrough of a <a href="https://github.com/bromanko/restify-example">boilerplate Restify web service</a> that provides all of the above behavior. Each of the concerns are separated and managed as discrete pipeline components. <em>(Much of the implementation is pseudocode. It’s intended to show how the pieces fit, not provide a complete implementation.)</em></p>
+<h4>Middleware</h4>
+<p>The first method by which I attach functionality to our request pipeline is via middleware. Middleware functions are executed once per request in the order they are attached. In both Express and Restify, these middleware are added via the <code>use</code> method. Both frameworks come packaged with common middleware that handle several of the aforementioned concerns. In application specific cases you can easily provide your own middleware functions to accomplish common behavior.</p>
+<h4>Out of the Box Middleware</h4>
+<p>In the Restify example, I leverage several provided middleware to handle most of the basic request concerns.</p>
+<pre><code class="language-javascript">// Request validation
+server.use(restify.acceptParser(server.acceptable))
+
+// Logging
+server.use(restify.requestLogger())
+
+// Request transformation
+server.use(restify.queryParser())
+server.use(restify.bodyParser())
+</code></pre>
+<h4>Custom Middleware</h4>
+<p>Authentication is application-specific in implementation. However, it is still functionality that must be performed on every request. It’s easy enough to create custom middleware to handle concerns such as this in a consistent manner.</p>
+<pre><code class="language-javascript">// Authentication
+server.use(authorization.authenticate())
+</code></pre>
+<p>I also leverage custom middleware to attach convenience methods to the request and response objects. For instance, I created <a href="https://github.com/Heyride/node-jiggler">Jiggler</a>, a framework for customizing the serialization of model objects for REST responses. A custom middleware is added to reduce Jiggler transformation and response to a single line of code.</p>
+<pre><code class="language-javascript">// Some convenience methods for transforming response objects
+server.use(representation.responder())
+</code></pre>
+<h4>Route Handlers</h4>
+<p>Once common behavior is added to the pipeline, we can concentrate on the functionality unique to individual endpoints. Express and Restify provide route handler functions to associate a function of code with an HTTP endpoint URL. Here’s a typical implementation.</p>
+<pre><code class="language-javascript">server.get('/', function (req, res, next) {
+  res.json({
+    version: '0.1',
+  })
+  return next()
+})
+</code></pre>
+<p>An often overlooked feature of these methods is the ability for each route registration to instead be passed an array of functions to be executed in order. That’s right — a pipeline embedded directly in each route. Here I attach functionality that is common in behavior, yet is dependent on local arguments. Typical use cases include validating request parameters or loading a model object from a URL key prior to execution of core route logic.</p>
+<pre><code class="language-javascript">// Route with a pipeline of methods
+// The first function will ensure required params are passed
+// The second function performs our actual business logic
+server.get('/tasks', [
+  validation.requireParams('status'),
+  function (req, res, next) {
+    res.json({
+      tasks: [
+        {
+          name: 'Get groceries',
+          status: 'Not done',
+        },
+        {
+          name: 'Walk the cat',
+          status: 'Not done',
+        },
+      ],
+    })
+    return next()
+  },
+])
+</code></pre>
+<h4>Post-Route Middleware</h4>
+<p>Finally, some behavior needs to execute on every request yet should occur after the unique request business logic has completed. Some examples include audit loggers and developer safeguards. This functionality can be added to our pipeline in an <code>after</code> event handler or by adding the middleware via use after all routes have been defined. I prefer the former because it is more explicit.</p>
+<pre><code class="language-javascript">if (CONFIG.server.auditLog) {
+  server.on(
+    'after',
+    restify.auditLogger({
+      log: new Logger(CONFIG.server.auditLog),
+    })
+  )
+}
+</code></pre>
+<p>Developer safeguard middleware is a great way to protect yourself and other developers from easily caught mistakes. For instance, on one project we had a problem
+with slow execution time — particularly slow database queries. I added a post-route middleware to detect execution times above a certain threshold and then return
+a server error if the threshold was exceeded (<em>in NODE_ENV=development only — just in case</em>). This forced developers to keep performance in mind while developing.</p>
+<h3>Closing Thoughts</h3>
+<p>I recommend reading through the complete <a href="https://github.com/bromanko/restify-example">example codebase</a> to get a sense for the patterns in practice. Node.js is a great platform for building complex web services. However,the code complexity that can arise requires a bit of diligence when crafting solutions. Mind the pipeline and keep your concerns separate. Future you will thank you for it when he or she isn’t neck deep in callbacks.</p>
+]]></description>
+            <link>https://bromanko.com/posts/2013-08-08-elegant-node-js-web-services-pipelines</link>
+            <guid isPermaLink="true">https://bromanko.com/posts/2013-08-08-elegant-node-js-web-services-pipelines</guid>
+            <pubDate>Thu, 08 Aug 2013 00:00:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

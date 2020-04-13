@@ -8,6 +8,8 @@
     "start": "scripts/entrypoint.sh next start"
   },
   "dependencies": {
+    "@babel/core": "^7.9.0",
+    "@babel/node": "^7.8.7",
     "classnames": "^2.2.6",
     "date-fns": "^2.11.1",
     "gray-matter": "^4.0.2",
@@ -21,6 +23,7 @@
     "rss": "^1.2.2"
   },
   "devDependencies": {
+    "@babel/preset-env": "^7.9.5",
     "@fullhuman/postcss-purgecss": "^2.1.0",
     "babel-plugin-prismjs": "^2.0.1",
     "dotenv": "^8.2.0",
