@@ -31,12 +31,19 @@
   @apply text-xl font-bold mt-4 leading-snug;
 }
 
+.markdown mark {
+  @apply p-2 px-0;
+}
+
 .markdown img {
   @apply rounded-lg;
 }
 
 .markdown img + em {
   @apply text-gray-300 text-center block;
+}
+.markdown blockquote br + em, .markdown mark + br + em {
+  @apply text-gray-300
 }
 
 .markdown pre {
