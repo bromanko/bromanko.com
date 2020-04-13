@@ -17,7 +17,7 @@ export default function Slug({ post }) {
   return (
     <Layout>
       <Head>
-        <title>{`${constants.Title} :: ${post.slug}`}</title>
+        <title>{`${constants.Title} :: ${post.title}`}</title>
       </Head>
       <PageContent>
         {router.isFallback ? (

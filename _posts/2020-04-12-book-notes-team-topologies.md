@@ -25,7 +25,7 @@ _Location 298_
 > Organizations need stable teams and effective team patterns and interactions. They need to invest in empowered, skilled teams as the foundation for agility and adaptability.  
 _Location 386_
 
-> <mark>We must shift our thinking from treating teams as collections of interchangeable individuals that will succeed as long as they follow the “right” process and use the “right” tools, to treating people and technology as a single human_computer carbon_silicon sociotechnical ecosystem.</mark>  
+> <mark>We must shift our thinking from treating teams as collections of interchangeable individuals that will succeed as long as they follow the “right” process and use the “right” tools, to treating people and technology as a single human-computer carbon-silicon sociotechnical ecosystem.</mark>  
 _Location 392_
 
 > At the same time, we need to ensure that teams are intrinsically motivated and are given a real chance of doing their best work within such a system.  
