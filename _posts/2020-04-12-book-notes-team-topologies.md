@@ -1,5 +1,6 @@
 ---
 title:  'Book Notes — Team Topologies: Organizing Business and Technology Teams for Fast Flow'
+excerpt: 'When I read non-fiction books I highlight salient points. I then export these notes to act as a point of reference for my future self. This post includes my notes on "Team Topologies: Organizing Business and Technology Teams for Fast Flow" by Matthew Skelton and Manuel Pais.'
 date: '2020-04-12'
 ---
 

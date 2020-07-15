@@ -1,6 +1,5 @@
 ---
 title: How Earnest Engineers Make Decisions
-excerpt: I just rewrote our interest rate calculator. It distributes calculations across a cluster of servers. The codebase is 10 times larger but it’s sooo fast! Could I get a code review?
 date: '2015-09-25'
 ---
 

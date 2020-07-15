@@ -3,11 +3,17 @@ const constants = require('../lib/constants')
 const Api = require('../lib/api')
 
 const addItemsToFeed = async (feed) => {
-  const posts = await Api.getAllPosts(['title', 'date', 'slug', 'content'])
+  const posts = await Api.getAllPosts([
+    'title',
+    'excerpt',
+    'date',
+    'slug',
+    'content',
+  ])
   posts.map((p) => {
     feed.item({
       title: p.title,
-      description: p.content,
+      description: p.excerpt || p.content,
       url: `${constants.BaseUrl}/posts/${p.slug}`,
       date: p.date,
     })

@@ -1,6 +1,5 @@
 ---
 title: 'dot-slash-go: Simple Project ./go Scripts'
-excerpt: I make it a point to include ./go scripts in every project I work on. A ./go script will significantly increase new developer productivity. Any open source project looking to lower their barrier of entry should adopt one.
 date: '2017-10-25'
 ---
 

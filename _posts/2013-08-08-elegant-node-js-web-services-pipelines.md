@@ -1,6 +1,5 @@
 ---
 title: 'Elegant Node.js Web Services: Pipelines'
-excerpt: 'This article describes the basics of an organized web service pipeline in Node.js. I’ve also published a companion Github repository that lays out the patterns in practice.'
 date: '2013-08-08'
 ---
 

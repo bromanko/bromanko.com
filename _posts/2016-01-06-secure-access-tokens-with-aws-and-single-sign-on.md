@@ -1,6 +1,5 @@
 ---
 title: Secure Access Tokens with AWS and Single Sign-On
-excerpt: At Earnest, we’re big fans of single sign-on (SSO). SSO is great because it provides a single set of authentication credentials to access multiple services. Administrators can easily assign (and take away) access to services and enhance security by requiring multi factor authentication challenges for services that don’t have such. If it’s a service someone at Earnest uses, we want it covered via SSO.
 date: '2016-01-06'
 ---
 

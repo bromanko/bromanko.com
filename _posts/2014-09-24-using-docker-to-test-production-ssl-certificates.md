@@ -1,6 +1,5 @@
 ---
 title: Using Docker to Test Production SSL Certificates
-excerpt:
 date: '2014-09-24'
 ---
 

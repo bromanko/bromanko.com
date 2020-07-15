@@ -1,6 +1,5 @@
 ---
 title: Meeting Earnest
-excerpt:
 date: '2015-03-10'
 ---
 

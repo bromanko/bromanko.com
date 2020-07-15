@@ -1,6 +1,5 @@
 ---
 title: Rediscovering .NET
-excerpt: With the recent release of Visual Studio for Mac and Jetbrains Rider I’ve gotten the itch to explore the current state of the .NET ecosystem. Microsoft has made some bold strides in cross-platform compatibility and I was curious about the development experience.
 date: '2016-01-09'
 ---
 

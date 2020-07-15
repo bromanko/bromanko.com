@@ -6,7 +6,7 @@ import Head from 'next/head'
 import React from 'react'
 import * as constants from '../lib/constants'
 
-export default function Index({ allPosts }) {
+export default function Index({ posts }) {
   return (
     <>
       <Layout>
@@ -14,17 +14,30 @@ export default function Index({ allPosts }) {
           <title>{constants.Title}</title>
         </Head>
         <PageContent>
-          <Posts posts={allPosts} />
+          <Posts posts={posts} />
         </PageContent>
       </Layout>
     </>
   )
 }
 
+const replaceContentWithExcerpts = (posts) =>
+  posts.map((p) => {
+    const replaced = Object.assign({}, p)
+    if (p.excerpt) replaced.content = p.excerpt
+    return replaced
+  })
+
 export async function getStaticProps() {
-  const allPosts = await getAllPosts(['title', 'date', 'slug', 'content'])
+  const allPosts = await getAllPosts([
+    'title',
+    'excerpt',
+    'date',
+    'slug',
+    'content',
+  ])
 
   return {
-    props: { allPosts },
+    props: { posts: replaceContentWithExcerpts(allPosts) },
   }
 }
