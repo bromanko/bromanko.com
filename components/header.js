@@ -8,7 +8,7 @@ export default function Header() {
         <header className="bg-gray-600 text-white rounded-lg p-4 text-lg leading-loose">
           Brian Romanko
           <br />
-          VP of Engineering at Bestow
+          Senior Engineering Manager at Meta
           <br />
           Passionate about software, design, and building high-performing teams
         </header>
