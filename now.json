@@ -1,8 +1,0 @@
-{
-  "trailingSlash": false,
-  "functions": {
-    "pages/api/feed.js": {
-      "includeFiles": "_posts/**"
-    }
-  }
-}
