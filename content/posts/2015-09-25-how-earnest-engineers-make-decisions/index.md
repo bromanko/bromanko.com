@@ -2,7 +2,7 @@
 title: How Earnest Engineers Make Decisions
 date: '2015-09-25'
 ---
-{{< figure src="brain-code.jpeg" alt="Illustration of a head with brain overlaying source code" >}}
+![Illustration of a head with brain overlaying source code](brain-code.jpeg)
 
 _I just rewrote our interest rate calculator. It distributes calculations across a cluster of servers. The codebase is 10 times larger but it’s sooo fast! Could I get a code review? — Scotty_
 
