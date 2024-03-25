@@ -2,6 +2,15 @@ on:
   workflow_dispatch:
   push:
 
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
 name: "Deploy Site"
 
 jobs:
@@ -11,11 +20,17 @@ jobs:
 
     steps:
       - name: Checkout Code
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
+
+      - name: Setup Pages
+        id: pages
+        uses: actions/configure-pages@v4
+
       - name: Install Nix
         uses: cachix/install-nix-action@v24
         with:
           nix_path: nixpkgs=channel:nixos-unstable
+
       - uses: DeterminateSystems/magic-nix-cache-action@main
         with:
           # Disable diagnostics
