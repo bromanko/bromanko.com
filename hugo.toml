@@ -3,3 +3,5 @@ languageCode = 'en-us'
 title = 'bromanko on the www'
 theme = 'rocinante'
 email = 'hello@bromanko.com'
+
+paginate = 5
