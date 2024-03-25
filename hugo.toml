@@ -12,6 +12,18 @@ Brian Romanko\n
 Engineering Director at Meta\n
 Passionate about software and design
   """
+  [[params.links]]
+    [[params.links.link]]
+      name = "Email"
+      href = "/contact"
+      smart_email_link = true
+    [[params.links.link]]
+      name = "Github"
+      href = "https://github.com/bromanko"
+      new_tab = true
+    [[params.links.link]]
+      name = "LinkedIn"
+
 
 [markup]
   [markup.highlight]
