@@ -1,7 +1,8 @@
-@import 'includes';
+@import "includes";
 
 /* https://markdotto.com/2018/02/07/github-system-fonts/ */
-$fonts: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+$fonts: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial,
+  sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
 
 body {
   font-family: $fonts;
@@ -14,15 +15,22 @@ p {
   margin: 1.25em 0;
 }
 
-em, i {
+em,
+i {
   font-style: italic;
 }
 
-strong, b {
+strong,
+b {
   font-weight: bold;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
   font-weight: bold;
   margin: 1.5em 0 1em 0;
   line-height: 1em;
@@ -47,18 +55,20 @@ h6 {
   font-size: 0.75em;
 }
 
-h4, h5, h6 {
+h4,
+h5,
+h6 {
   text-transform: uppercase;
   letter-spacing: 1px;
   margin-top: 2.5em;
 }
 
 a {
-  color: #2200CC;
+  color: #2200cc;
   transition: color 0.1s ease;
 
   &:hover {
-    color: #5544FF;
+    color: #5544ff;
   }
 }
 
@@ -87,18 +97,16 @@ hr {
   border-top: 2px dotted #aaa;
 }
 
-pre, code {
+pre,
+code {
   font-family: SFMono-Regular, Consolas, "Liberation Mono", Menlo, monospace;
   border-radius: 3px;
 }
 code {
-  background: #f9f9f9;
   font-size: 0.9em;
   padding: 0.25em 0.5em;
-  color: #9E525A;
 }
 pre code {
-  background: #f9f9f9;
   display: block;
   margin: 1em 0;
   padding: 0.75em 1em;
@@ -106,7 +114,8 @@ pre code {
   overflow: auto;
 }
 
-img, video {
+img,
+video {
   max-width: 100%;
   height: auto;
   border-radius: 3px;
@@ -132,7 +141,7 @@ figcaption {
 blockquote {
   padding-left: 1.25em;
   padding-right: 1.5em;
-  border-left: .25em solid #eee;
+  border-left: 0.25em solid #eee;
   color: #666;
 }
 
@@ -142,9 +151,10 @@ table {
   border: 1px solid #ddd;
 }
 
-td, th {
+td,
+th {
   vertical-align: middle;
-  padding: .25rem .5rem;
+  padding: 0.25rem 0.5rem;
   border: 1px solid #ddd;
 }
 
@@ -152,11 +162,13 @@ th {
   font-weight: bold;
 }
 
-tbody tr:nth-child(2n+1) td, tbody tr:nth-child(2n+1) th {
+tbody tr:nth-child(2n + 1) td,
+tbody tr:nth-child(2n + 1) th {
   background-color: #f8f8f8;
 }
 
-sup, sub {
+sup,
+sub {
   font-size: 0.8em;
 }
 sup {
@@ -249,7 +261,7 @@ footer {
     border: none;
 
     &:hover {
-      color: #5544FF;
+      color: #5544ff;
     }
   }
   .read-more {
@@ -293,7 +305,10 @@ footer {
 }
 
 .album {
-  .date, .date h5, .location, .location h5 {
+  .date,
+  .date h5,
+  .location,
+  .location h5 {
     display: inline;
   }
   .location {
@@ -316,7 +331,7 @@ footer {
   }
 }
 
-@media (max-width:400px) {
+@media (max-width: 400px) {
   body {
     font-size: 14px;
   }
