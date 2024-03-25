@@ -15,7 +15,7 @@ In the `sites-enabled` folder I configured SSL servers for each of the certifica
 
 Here’s an example that runs http and https listeners and redirects all traffic to the https server.
 
-```
+```nginx
 server {
  listen 80;
  server_name bromanko.com www.bromanko.com;
