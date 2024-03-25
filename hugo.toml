@@ -2,9 +2,16 @@ baseURL = 'https://bromanko.com/'
 languageCode = 'en-us'
 title = 'bromanko on the www'
 theme = 'rocinante'
-email = 'hello@bromanko.com'
 
 paginate = 5
+
+[params]
+  email = 'hello@bromanko.com'
+  about = """
+Brian Romanko\n
+Engineering Director at Meta\n
+Passionate about software and design
+  """
 
 [markup]
   [markup.highlight]
