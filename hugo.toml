@@ -29,3 +29,4 @@ Passionate about software and design
 [markup]
   [markup.highlight]
     style = 'catppuccin-mocha'
+    lineNos = true

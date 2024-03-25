@@ -53,7 +53,7 @@ The easiest solution was to edit my hosts file to resolve `www.bromanko.com`
 and `bromanko.com` to the running container.
 Since I’m on OSX, this will be the IP of my boot2docker VM.
 
-```
+```js
 ##
 # Host Database
 #
