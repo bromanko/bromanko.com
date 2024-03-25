@@ -23,6 +23,7 @@ Passionate about software and design
       new_tab = true
     [[params.links.link]]
       name = "LinkedIn"
+      href = "https://linkedin.com/in/bromanko"
 
 
 [markup]
