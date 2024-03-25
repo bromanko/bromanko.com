@@ -1,0 +1,14 @@
+on:
+  workflow_dispatch:
+  push:
+
+name: "Deploy Site"
+
+jobs:
+  deploy:
+    name: "Deploy Site"
+    runs-on: ubuntu
+
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v3
