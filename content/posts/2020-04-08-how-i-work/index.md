@@ -9,7 +9,7 @@ I struggled for some time with intense wrist pain. I suspected this was due to p
 
 The completely split layout is what drew me to the Ergodox. It allows for your hands to be shoulder width apart. It also allows you to rotate the halves to whatever angle is most comfortable for your wrists. The below photo has a slight counter-clockwise rotation. I find the most comfort rotating the two halves slightly inward toward each other.
 
-![bromanko's desk setup](/img/posts/2020-04-08-how-i-work/bromanko-setup.jpg)
+![bromanko's desk setup](bromanko-setup.jpg)
 
 This keyboard was an intimidating purchase. First off, half the keycaps are blank. I thought I was a decent touch-typist but navigating a new keyboard without keycaps was daunting. More so the case when the key placement is novel. Also, there’s the price. It’s over $300 to take the dive. That’s a lot of money for an experiment. I wonder whether the high price gave me more motivation to learn. If the keyboard was $50 perhaps I would have given up after a few hours.
 
@@ -94,7 +94,7 @@ Unfortunately, web browsing is difficult to do via keyboard. Tabbing through hun
 
 That last point is a game changer.
 
-![Vimium in action](/img/posts/2020-04-08-how-i-work/vimium.png)
+![Vimium in action](vimium.png)
 
 I can click on any element on the page by pressing `f` and then pressing the series of keys in the yellow overlay corresponding to the link I am interested in. This makes pretty much any UI element keyboard accessible with only a handful of keypresses. Folks that have used [Vim’s EasyMotion](https://github.com/easymotion/vim-easymotion) project will find it immediately recognizable.
 
