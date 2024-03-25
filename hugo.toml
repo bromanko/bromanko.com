@@ -5,3 +5,7 @@ theme = 'rocinante'
 email = 'hello@bromanko.com'
 
 paginate = 5
+
+[markup]
+  [markup.highlight]
+    style = 'catppuccin-frappe'
