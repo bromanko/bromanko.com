@@ -138,3 +138,6 @@ a server error if the threshold was exceeded (_in NODE_ENV=development only �
 ### Closing Thoughts
 
 I recommend reading through the complete [example codebase](https://github.com/bromanko/restify-example) to get a sense for the patterns in practice. Node.js is a great platform for building complex web services. However,the code complexity that can arise requires a bit of diligence when crafting solutions. Mind the pipeline and keep your concerns separate. Future you will thank you for it when he or she isn’t neck deep in callbacks.
+
+Test
+
