@@ -20,3 +20,7 @@ I initialized a [git repo]() in the same folder and setup the [Obsidian git plug
 <screenshot of iOS and macOS>
 
 Last step is publishing. I opted for Hugo. It’s boring tech. Created a [GitHub Actions workflow] to build and deploy the site on every commit. ☀️
+
+![[Pasted image 20240325185226.png]]
+
+Guess so. 
