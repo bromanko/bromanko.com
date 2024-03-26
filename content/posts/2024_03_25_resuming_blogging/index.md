@@ -1,11 +1,14 @@
 ---
 title: Resuming Blogging
 date: 2024-03-25
-draft: "True"
+draft: "true"
 ---
+
 Hello (again) world!
 
-I’ve really neglected this site. It’s been four years since I last posted anything. I got the urge to write today and…wow…what a painful experience. The prior version of this site was a custom Next.js app. I attempted to run it with `npm run dev` and got a string of errors. Something must have changed with later Node.js versions making this v9 era version of Next.js no longer compatible. Updating 4 years worth of breaking changes is not how I was going to spend an afternoon.
+I’ve sorely neglected this site. It’s been four years since last post. I got the urge to write today and…wow…what pain. 
+
+The prior version of this site was a bespoke Next.js app forked from somewhere forgotten. I attempted to run it with `npm i && npm run dev`. Wall of inscrutable errors. Something must have changed with Node.js in the last four years. Next.js v9 must not be compatible. This is not how I’m spending the afternoon. 
 
 Hard reset. Start from scratch. Simplify. 
 
@@ -15,12 +18,14 @@ Here’s what I cobbled together.
 
 I created a new Obsidian vault and moved in all my post Markdown files. I configured iCloud sync to maintain continuity between computers and phone. Authoring requirements achieved. 
 
-I initialized a [git repo]() in the same folder and setup the [Obsidian git plugin]() to push changes. Pull isn’t necessary since iCloud sync will handle it. 
+I initialized a [git repo](https://github.com/bromanko/bromanko.com) in the same folder and setup the [Obsidian git plugin](https://github.com/denolehov/obsidian-git) to push changes. Pull isn’t necessary. iCloud sync will handle it. 
 
-<screenshot of iOS and macOS>
+![[Screenshot 2024-03-25 at 6.56.04 PM.png]]
 
-Last step is publishing. I opted for Hugo. It’s boring tech. Created a [GitHub Actions workflow] to build and deploy the site on every commit. ☀️
+Last step was publishing. I opted for Hugo. It’s boring tech. I created a [GitHub Actions workflow](https://github.com/bromanko/bromanko.com/blob/main/.github/workflows/deploy.yaml) to build and deploy the site on every commit. 
+
+Edit files in Obsidian, wait for the Git plugin to push, site deploys. ☀️
 
 ![[Pasted image 20240325185226.png]]
 
-Guess so. 
+I like it. 
