@@ -34,3 +34,10 @@ Passionate about software and design
   [markup.highlight]
     style = 'catppuccin-mocha'
     lineNos = true
+
+[outputFormats]
+  [outputFormats.RSS]
+    mediatype = "application/rss+xml"
+    baseName = "feed"
+    isPlainText = false
+    notAlternative = true
