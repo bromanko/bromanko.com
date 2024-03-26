@@ -12,6 +12,10 @@ Brian Romanko\n
 Engineering Director at Meta\n
 Passionate about software and design
   """
+  [[params.author]]
+  email = "hello@bromanko.com"
+  name = "Brian Romanko"
+
   [[params.links]]
     [[params.links.link]]
       name = "Email"
