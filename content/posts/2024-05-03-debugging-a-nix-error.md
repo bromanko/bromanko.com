@@ -1,6 +1,7 @@
 ---
 title: Debugging a Nix Error
 date: 2024-05-03
+excerpt: Today I debugged a perplexing Nix issue.
 ---
 I'm hunting for _my_ perfect web application language (sure to be a future post). So I've been exploring OCaml. I prefer Nix for configuring development environments. It keeps things self-contained and increases the chances that I won't have painful setup issues when I revisit projects months or years later. 
 
