@@ -9,7 +9,7 @@ paginate = 5
   email = 'hello@bromanko.com'
   about = """
 Brian Romanko\n
-Principal Engineer at Meta\n
+Principal Engineer at Dropbox\n
 Passionate about software and design
   """
   [[params.author]]
