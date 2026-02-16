@@ -3,7 +3,8 @@ languageCode = 'en-us'
 title = 'bromanko on the www'
 theme = 'rocinante'
 
-paginate = 5
+[pagination]
+  pagerSize = 5
 
 [params]
   email = 'hello@bromanko.com'
